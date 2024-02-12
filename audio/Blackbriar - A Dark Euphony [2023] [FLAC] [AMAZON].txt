@@ -1,0 +1,14 @@
+| Track  | Title                            | Duration | Size | Bit Depth  |
+|--------|----------------------------------|----------|------|------------|
+| 01     | An Unwelcome Guest               | 4:10     | 54MB | 24         |
+| 02     | Far Distant Land                 | 4:38     | 59MB | 24         |
+| 03     | Spirit of Forgetfulness          | 3:50     | 50MB | 24         |
+| 04     | Bloody Footprints in the Snow    | 5:11     | 68MB | 24         |
+| 05     | The Evergreen and Weeping Tree   | 4:55     | 60MB | 24         |
+| 06     | Cicada                           | 4:32     | 59MB | 24         |
+| 07     | My Soul's Demise                 | 4:25     | 55MB | 24         |
+| 08     | We Make Mist                     | 4:36     | 60MB | 24         |
+| 09     | Thumbelina                       | 4:24     | 57MB | 24         |
+| 10     | Forever and a Day                | 4:58     | 64MB | 24         |
+| 11     | Crimson Faces                    | 3:41     | 49MB | 24         |
+|--------|----------------------------------|----------|------|------------|
