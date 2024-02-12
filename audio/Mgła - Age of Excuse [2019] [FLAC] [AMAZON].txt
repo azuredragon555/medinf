@@ -1,0 +1,8 @@
+| Track | Title              | Duration | Size | Bit Depth |
+|-------|--------------------|----------|------|-----------|
+| 01    | Age of Excuse I    | 7:30     | 59 MB| 16        |
+| 02    | Age of Excuse II   | 6:58     | 54 MB| 16        |
+| 03    | Age of Excuse III  | 6:16     | 51 MB| 16        |
+| 04    | Age of Excuse IV   | 5:36     | 45 MB| 16        |
+| 05    | Age of Excuse V    | 7:01     | 56 MB| 16        |
+| 06    | Age of Excuse VI   | 9:07     | 69 MB| 16        |
