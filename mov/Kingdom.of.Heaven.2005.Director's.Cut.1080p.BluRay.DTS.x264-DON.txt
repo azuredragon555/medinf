@@ -1,0 +1,423 @@
+Complete name               : Kingdom.of.Heaven.2005.Director's.Cut.1080p.BluRay.DTS.x264-DON.mkv
+Format                      : Matroska
+Format version              : Version 2
+File size                   : 21.2 GiB
+Duration                    : 3 h 9 min
+Overall bit rate            : 16.0 Mb/s
+Frame rate                  : 23.976 FPS
+Movie name                  : Kingdom of Heaven (2005) - Director's Cut
+Encoded date                : 2011-01-16 08:15:17 UTC
+Writing application         : mkvmerge v3.4.0 ('Rapunzel') сборка от May 15 2010 09:38:20
+Writing library             : libebml v0.8.0 + libmatroska v0.9.0
+
+Video
+ID                          : 1
+Format                      : AVC
+Format/Info                 : Advanced Video Codec
+Format profile              : High@L4.1
+Format settings             : CABAC / 5 Ref Frames
+Format settings, CABAC      : Yes
+Format settings, Reference  : 5 frames
+Codec ID                    : V_MPEG4/ISO/AVC
+Duration                    : 3 h 9 min
+Bit rate                    : 10.6 Mb/s
+Width                       : 1 920 pixels
+Height                      : 818 pixels
+Display aspect ratio        : 2.35:1
+Frame rate mode             : Constant
+Frame rate                  : 23.976 (24000/1001) FPS
+Color space                 : YUV
+Chroma subsampling          : 4:2:0
+Bit depth                   : 8 bits
+Scan type                   : Progressive
+Bits/(Pixel*Frame)          : 0.280
+Stream size                 : 14.0 GiB (66%)
+Writing library             : x264 core 112 r1834 a51816a
+Encoding settings           : cabac=1 / ref=5 / deblock=1:-3:-3 / analyse=0x3:0x133 / me=umh / subme=9 / psy=1 / psy_rd=1.05:0.00 / mixed_ref=1 / me_range=32 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=0 / chroma_qp_offset=-2 / threads=6 / sliced_threads=0 / nr=0 / decimate=0 / interlaced=0 / constrained_intra=0 / bframes=6 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=23 / scenecut=40 / intra_refresh=0 / rc_lookahead=60 / rc=crf / mbtree=1 / crf=18.0 / qcomp=0.75 / qpmin=0 / qpmax=51 / qpstep=4 / vbv_maxrate=50000 / vbv_bufsize=62500 / crf_max=0.0 / ip_ratio=1.40 / aq=1:0.80 / nal_hrd=none
+Language                    : English
+Default                     : No
+Forced                      : No
+
+Audio #1
+ID                          : 2
+Format                      : AC-3
+Format/Info                 : Audio Coding 3
+Commercial name             : Dolby Digital
+Codec ID                    : A_AC3
+Duration                    : 3 h 9 min
+Bit rate mode               : Constant
+Bit rate                    : 448 kb/s
+Channel(s)                  : 6 channels
+Channel layout              : L R C LFE Ls Rs
+Sampling rate               : 48.0 kHz
+Frame rate                  : 31.250 FPS (1536 SPF)
+Compression mode            : Lossy
+Stream size                 : 607 MiB (3%)
+Title                       : DD 5.1 @ 448 kbps (DUB+MVO)
+Language                    : Russian
+Service kind                : Complete Main
+Default                     : Yes
+Forced                      : No
+
+Audio #2
+ID                          : 3
+Format                      : DTS
+Format/Info                 : Digital Theater Systems
+Codec ID                    : A_DTS
+Duration                    : 3 h 9 min
+Bit rate mode               : Constant
+Bit rate                    : 1 509 kb/s
+Channel(s)                  : 6 channels
+Channel layout              : C L R Ls Rs LFE
+Sampling rate               : 48.0 kHz
+Frame rate                  : 93.750 FPS (512 SPF)
+Bit depth                   : 24 bits
+Compression mode            : Lossy
+Stream size                 : 2.00 GiB (9%)
+Title                       : DTS 5.1 @ 1509 kbps (Многоголосый, Киномания)
+Language                    : Russian
+Default                     : No
+Forced                      : No
+
+Audio #3
+ID                          : 4
+Format                      : DTS
+Format/Info                 : Digital Theater Systems
+Codec ID                    : A_DTS
+Duration                    : 3 h 9 min
+Bit rate mode               : Constant
+Bit rate                    : 1 509 kb/s
+Channel(s)                  : 6 channels
+Channel layout              : C L R Ls Rs LFE
+Sampling rate               : 48.0 kHz
+Frame rate                  : 93.750 FPS (512 SPF)
+Bit depth                   : 24 bits
+Compression mode            : Lossy
+Stream size                 : 2.00 GiB (9%)
+Title                       : DTS 5.1 @ 1509 kbps  (Одноголосый, Королёв)
+Language                    : Russian
+Default                     : No
+Forced                      : No
+
+Audio #4
+ID                          : 5
+Format                      : AC-3
+Format/Info                 : Audio Coding 3
+Commercial name             : Dolby Digital
+Codec ID                    : A_AC3
+Duration                    : 3 h 9 min
+Bit rate mode               : Constant
+Bit rate                    : 192 kb/s
+Channel(s)                  : 2 channels
+Channel layout              : L R
+Sampling rate               : 48.0 kHz
+Frame rate                  : 31.250 FPS (1536 SPF)
+Compression mode            : Lossy
+Stream size                 : 260 MiB (1%)
+Title                       : DD 2.0 @ 192 kbps (Одноголосый, Живов)
+Language                    : Russian
+Service kind                : Complete Main
+Default                     : No
+Forced                      : No
+
+Audio #5
+ID                          : 6
+Format                      : DTS
+Format/Info                 : Digital Theater Systems
+Codec ID                    : A_DTS
+Duration                    : 3 h 9 min
+Bit rate mode               : Constant
+Bit rate                    : 1 509 kb/s
+Channel(s)                  : 6 channels
+Channel layout              : C L R Ls Rs LFE
+Sampling rate               : 48.0 kHz
+Frame rate                  : 93.750 FPS (512 SPF)
+Bit depth                   : 24 bits
+Compression mode            : Lossy
+Stream size                 : 2.00 GiB (9%)
+Title                       : DTS 5.1 @ 1509 kbps
+Language                    : English
+Default                     : No
+Forced                      : No
+
+Text #1
+ID                          : 7
+Format                      : UTF-8
+Codec ID                    : S_TEXT/UTF8
+Codec ID/Info               : UTF-8 Plain Text
+Language                    : Russian
+Default                     : No
+Forced                      : No
+
+Text #2
+ID                          : 8
+Format                      : UTF-8
+Codec ID                    : S_TEXT/UTF8
+Codec ID/Info               : UTF-8 Plain Text
+Language                    : Russian
+Default                     : No
+Forced                      : No
+
+Text #3
+ID                          : 9
+Format                      : UTF-8
+Codec ID                    : S_TEXT/UTF8
+Codec ID/Info               : UTF-8 Plain Text
+Language                    : Bulgarian
+Default                     : No
+Forced                      : No
+
+Text #4
+ID                          : 10
+Format                      : UTF-8
+Codec ID                    : S_TEXT/UTF8
+Codec ID/Info               : UTF-8 Plain Text
+Language                    : Croatian
+Default                     : No
+Forced                      : No
+
+Text #5
+ID                          : 11
+Format                      : UTF-8
+Codec ID                    : S_TEXT/UTF8
+Codec ID/Info               : UTF-8 Plain Text
+Language                    : Czech
+Default                     : No
+Forced                      : No
+
+Text #6
+ID                          : 12
+Format                      : UTF-8
+Codec ID                    : S_TEXT/UTF8
+Codec ID/Info               : UTF-8 Plain Text
+Language                    : Danish
+Default                     : No
+Forced                      : No
+
+Text #7
+ID                          : 13
+Format                      : UTF-8
+Codec ID                    : S_TEXT/UTF8
+Codec ID/Info               : UTF-8 Plain Text
+Language                    : Dutch
+Default                     : No
+Forced                      : No
+
+Text #8
+ID                          : 14
+Format                      : UTF-8
+Codec ID                    : S_TEXT/UTF8
+Codec ID/Info               : UTF-8 Plain Text
+Language                    : English
+Default                     : No
+Forced                      : No
+
+Text #9
+ID                          : 15
+Format                      : UTF-8
+Codec ID                    : S_TEXT/UTF8
+Codec ID/Info               : UTF-8 Plain Text
+Language                    : Finnish
+Default                     : No
+Forced                      : No
+
+Text #10
+ID                          : 16
+Format                      : UTF-8
+Codec ID                    : S_TEXT/UTF8
+Codec ID/Info               : UTF-8 Plain Text
+Language                    : French
+Default                     : No
+Forced                      : No
+
+Text #11
+ID                          : 17
+Format                      : UTF-8
+Codec ID                    : S_TEXT/UTF8
+Codec ID/Info               : UTF-8 Plain Text
+Language                    : German
+Default                     : No
+Forced                      : No
+
+Text #12
+ID                          : 18
+Format                      : UTF-8
+Codec ID                    : S_TEXT/UTF8
+Codec ID/Info               : UTF-8 Plain Text
+Language                    : Greek
+Default                     : No
+Forced                      : No
+
+Text #13
+ID                          : 19
+Format                      : UTF-8
+Codec ID                    : S_TEXT/UTF8
+Codec ID/Info               : UTF-8 Plain Text
+Language                    : Hungarian
+Default                     : No
+Forced                      : No
+
+Text #14
+ID                          : 20
+Format                      : UTF-8
+Codec ID                    : S_TEXT/UTF8
+Codec ID/Info               : UTF-8 Plain Text
+Language                    : Norwegian
+Default                     : No
+Forced                      : No
+
+Text #15
+ID                          : 21
+Format                      : UTF-8
+Codec ID                    : S_TEXT/UTF8
+Codec ID/Info               : UTF-8 Plain Text
+Language                    : Polish
+Default                     : No
+Forced                      : No
+
+Text #16
+ID                          : 22
+Format                      : UTF-8
+Codec ID                    : S_TEXT/UTF8
+Codec ID/Info               : UTF-8 Plain Text
+Title                       : Brazilian
+Language                    : Portuguese
+Default                     : No
+Forced                      : No
+
+Text #17
+ID                          : 23
+Format                      : UTF-8
+Codec ID                    : S_TEXT/UTF8
+Codec ID/Info               : UTF-8 Plain Text
+Title                       : Iberian
+Language                    : Portuguese
+Default                     : No
+Forced                      : No
+
+Text #18
+ID                          : 24
+Format                      : UTF-8
+Codec ID                    : S_TEXT/UTF8
+Codec ID/Info               : UTF-8 Plain Text
+Language                    : Romanian
+Default                     : No
+Forced                      : No
+
+Text #19
+ID                          : 25
+Format                      : UTF-8
+Codec ID                    : S_TEXT/UTF8
+Codec ID/Info               : UTF-8 Plain Text
+Language                    : Serbian
+Default                     : No
+Forced                      : No
+
+Text #20
+ID                          : 26
+Format                      : UTF-8
+Codec ID                    : S_TEXT/UTF8
+Codec ID/Info               : UTF-8 Plain Text
+Language                    : Slovenian
+Default                     : No
+Forced                      : No
+
+Text #21
+ID                          : 27
+Format                      : UTF-8
+Codec ID                    : S_TEXT/UTF8
+Codec ID/Info               : UTF-8 Plain Text
+Language                    : Spanish
+Default                     : No
+Forced                      : No
+
+Text #22
+ID                          : 28
+Format                      : UTF-8
+Codec ID                    : S_TEXT/UTF8
+Codec ID/Info               : UTF-8 Plain Text
+Language                    : Swedish
+Default                     : No
+Forced                      : No
+
+Text #23
+ID                          : 29
+Format                      : UTF-8
+Codec ID                    : S_TEXT/UTF8
+Codec ID/Info               : UTF-8 Plain Text
+Language                    : Turkish
+Default                     : No
+Forced                      : No
+
+Text #24
+ID                          : 30
+Format                      : UTF-8
+Codec ID                    : S_TEXT/UTF8
+Codec ID/Info               : UTF-8 Plain Text
+Language                    : Vietnamese
+Default                     : No
+Forced                      : No
+
+Menu
+00:00:00.000                : en:Crossroads
+00:04:30.479                : en:Crusaders
+00:07:23.276                : en:Without an Heir
+00:09:22.353                : en:Sin
+00:11:37.572                : en:Old Memories
+00:14:37.835                : en:The Baron's Son
+00:18:15.136                : en:In Hell
+00:20:38.070                : en:To Erase My Sins
+00:22:03.280                : en:The Guard of the Hawk
+00:24:18.540                : en:Whoever Dies Here Today
+00:30:44.509                : en:The Path to Heaven
+00:32:36.621                : en:A Better World
+00:34:52.507                : en:Remember That Name
+00:36:34.150                : en:The Knight's Oath
+00:39:15.520                : en:Perilous Journey
+00:41:58.349                : en:The Saracen's Challenge
+00:45:55.044                : en:Jerusalem
+00:49:07.236                : en:The New Baron
+00:51:36.885                : en:Sibylla
+00:54:18.130                : en:The Marshall of Jerusalem
+00:56:36.310                : en:His Father's Son
+00:58:36.054                : en:At the King's Table
+01:01:15.547                : en:The Leper King
+01:05:47.318                : en:Ibelin
+01:10:11.582                : en:Guests of the House
+01:16:09.940                : en:There Is Only Light
+01:18:43.177                : en:God Wills It
+01:20:08.887                : en:Tokens
+01:21:28.801                : en:Blasphemy
+01:24:34.361                : en:Defenders of Kerak
+01:29:34.202                : en:The Friendly Enemy
+01:30:48.610                : en:Jerusalem Has Come
+01:34:07.267                : en:The Kiss of Peace
+01:37:13.244                : en:I Quake for Islam
+01:39:36.929                : en:Power
+01:42:48.704                : en:An Understanding
+01:45:14.308                : en:Conscience or Nothing
+01:50:21.698                : en:The Final Dream
+01:54:51.802                : en:Long Live the King
+01:56:28.356                : en:The Reckoning
+01:58:05.787                : en:A Mother's Pain
+02:02:01.272                : en:Templars' Attack
+02:04:07.148                : en:Queen of Jerusalem
+02:04:57.156                : en:Beloved Sister
+02:07:43.030                : en:He Is Waiting
+02:11:44.313                : en:The Road to Hattin
+02:13:25.915                : en:A King's Example
+02:16:15.834                : en:Four Days
+02:18:08.655                : en:To Defend Jerusalem
+02:21:55.757                : en:Rise a Knight
+02:24:17.190                : en:Siege
+02:28:54.134                : en:Retaliation
+02:34:58.080                : en:The Third Day
+02:37:20.848                : en:God Will Understand
+02:39:19.008                : en:The Door Into Jerusalem
+02:41:27.678                : en:Final Stand
+02:45:06.814                : en:Nothing and Everything
+02:50:52.576                : en:The Perfect Knight
+02:53:08.253                : en:Leaving Jerusalem
+02:56:02.552                : en:A Queen Never Walks
+02:57:19.504                : en:I Am the Blacksmith
+03:00:35.533                : en:Epilogue/End Titles
