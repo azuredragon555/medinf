@@ -1,0 +1,106 @@
+Complete name               : Tornado.Girl.2017.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-TRiToN.mkv
+Format                      : Matroska
+Format version              : Version 4
+File size                   : 27.3 GiB
+Duration                    : 1 h 39 min
+Overall bit rate mode       : Variable
+Overall bit rate            : 39.2 Mb/s
+Frame rate                  : 23.976 FPS
+Movie name                  : Tornado Girl (2017)
+Encoded date                : 2022-01-04 15:57:59 UTC
+Writing application         : mkvmerge v63.0.0 ('Everything') 64-bit
+Writing library             : libebml v1.4.2 + libmatroska v1.6.4
+IMDB                        : tt5739586
+TMDB                        : movie/459530
+
+Video
+ID                          : 1
+Format                      : AVC
+Format/Info                 : Advanced Video Codec
+Format profile              : High@L4.1
+Format settings             : CABAC / 4 Ref Frames
+Format settings, CABAC      : Yes
+Format settings, Reference  : 4 frames
+Codec ID                    : V_MPEG4/ISO/AVC
+Duration                    : 1 h 39 min
+Bit rate mode               : Variable
+Bit rate                    : 35.8 Mb/s
+Maximum bit rate            : 37.0 Mb/s
+Width                       : 1 920 pixels
+Height                      : 1 080 pixels
+Display aspect ratio        : 16:9
+Frame rate mode             : Constant
+Frame rate                  : 23.976 (24000/1001) FPS
+Color space                 : YUV
+Chroma subsampling          : 4:2:0
+Bit depth                   : 8 bits
+Scan type                   : Progressive
+Bits/(Pixel*Frame)          : 0.720
+Time code of first frame    : 00:59:59:0000000000
+Stream size                 : 24.9 GiB (91%)
+Title                       : MPEG-4 AVC Video / 35957 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Language                    : Japanese
+Default                     : Yes
+Forced                      : No
+
+Audio
+ID                          : 2
+Format                      : DTS XLL
+Format/Info                 : Digital Theater Systems
+Commercial name             : DTS-HD Master Audio
+Codec ID                    : A_DTS
+Duration                    : 1 h 39 min
+Bit rate mode               : Variable
+Bit rate                    : 3 344 kb/s
+Channel(s)                  : 6 channels
+Channel layout              : C L R Ls Rs LFE
+Sampling rate               : 48.0 kHz
+Frame rate                  : 93.750 FPS (512 SPF)
+Bit depth                   : 24 bits
+Compression mode            : Lossless
+Stream size                 : 2.32 GiB (9%)
+Title                       : DTS-HD Master Audio / 5.1 / 48 kHz / 3344 kbps / 16-bit
+Language                    : Japanese
+Default                     : Yes
+Forced                      : No
+
+Text #1
+ID                          : 3
+Format                      : PGS
+Codec ID                    : S_HDMV/PGS
+Codec ID/Info               : Picture based subtitle format used on BDs/HD-DVDs
+Duration                    : 1 h 38 min
+Bit rate                    : 25.3 kb/s
+Frame rate                  : 0.396 FPS
+Count of elements           : 2350
+Stream size                 : 17.9 MiB (0%)
+Language                    : English
+Default                     : Yes
+Forced                      : No
+
+Text #2
+ID                          : 4
+Format                      : PGS
+Codec ID                    : S_HDMV/PGS
+Codec ID/Info               : Picture based subtitle format used on BDs/HD-DVDs
+Duration                    : 1 h 38 min
+Bit rate                    : 49.7 kb/s
+Frame rate                  : 0.595 FPS
+Count of elements           : 3530
+Stream size                 : 35.2 MiB (0%)
+Language                    : Japanese
+Default                     : No
+Forced                      : No
+
+Menu
+00:00:00.000                : en:Chapter 01
+00:07:11.556                : en:Chapter 02
+00:18:07.545                : en:Chapter 03
+00:28:26.163                : en:Chapter 04
+00:40:15.246                : en:Chapter 05
+00:50:58.430                : en:Chapter 06
+00:58:20.080                : en:Chapter 07
+01:09:48.184                : en:Chapter 08
+01:15:13.092                : en:Chapter 09
+01:30:53.865                : en:Chapter 10
+
