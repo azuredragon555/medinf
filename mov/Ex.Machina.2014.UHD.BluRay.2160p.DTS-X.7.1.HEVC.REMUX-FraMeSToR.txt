@@ -1,0 +1,128 @@
+Complete name               : L:\Ex.Machina.2014.UHD.BluRay.2160p.DTS-X.7.1.HEVC.REMUX-FraMeSToR.mkv
+Format                      : Matroska
+Format version              : Version 4
+File size                   : 54.8 GiB
+Duration                    : 1 h 48 min
+Overall bit rate mode       : Variable
+Overall bit rate            : 72.5 Mb/s
+Frame rate                  : 23.976 FPS
+Movie name                  : Ex Machina 4K
+Encoded date                : 2018-01-15 10:59:04 UTC
+Writing application         : mkvmerge v19.0.0 ('Brave Captain') 64-bit
+Writing library             : libebml v1.3.5 + libmatroska v1.4.8
+
+Video
+ID                          : 1
+Format                      : HEVC
+Format/Info                 : High Efficiency Video Coding
+Format profile              : Main 10@L5.1@High
+HDR format                  : SMPTE ST 2086, HDR10 compatible
+Codec ID                    : V_MPEGH/ISO/HEVC
+Duration                    : 1 h 48 min
+Bit rate                    : 66.9 Mb/s
+Width                       : 3 840 pixels
+Height                      : 2 160 pixels
+Display aspect ratio        : 16:9
+Frame rate mode             : Constant
+Frame rate                  : 23.976 (24000/1001) FPS
+Color space                 : YUV
+Chroma subsampling          : 4:2:0 (Type 2)
+Bit depth                   : 10 bits
+Bits/(Pixel*Frame)          : 0.336
+Stream size                 : 50.6 GiB (92%)
+Writing library             : ATEME Titan File 3.7.9 (4.7.9.0)
+Default                     : Yes
+Forced                      : No
+Color range                 : Limited
+Color primaries             : BT.2020
+Transfer characteristics    : PQ
+Matrix coefficients         : BT.2020 non-constant
+Mastering display color pri : Display P3
+Mastering display luminance : min: 0.0000 cd/m2, max: 1000 cd/m2
+Maximum Content Light Level : 1347 cd/m2
+Maximum Frame-Average Light : 546 cd/m2
+
+Audio
+ID                          : 2
+Format                      : DTS XLL X
+Format/Info                 : Digital Theater Systems
+Commercial name             : DTS-HD MA + DTS:X
+Codec ID                    : A_DTS
+Duration                    : 1 h 48 min
+Bit rate mode               : Variable
+Bit rate                    : 5 522 kb/s
+Channel(s)                  : 8 channels
+Channel layout              : C L R LFE Lb Rb Lss Rss Objects
+Sampling rate               : 48.0 kHz
+Frame rate                  : 93.750 FPS (512 SPF)
+Bit depth                   : 24 bits
+Compression mode            : Lossless
+Stream size                 : 4.18 GiB (8%)
+Title                       : DTS:X 7.1
+Language                    : English
+Default                     : Yes
+Forced                      : No
+
+Text #1
+ID                          : 3
+Format                      : PGS
+Codec ID                    : S_HDMV/PGS
+Codec ID/Info               : Picture based subtitle format used on BDs/HD-DVDs
+Duration                    : 1 h 39 min
+Bit rate                    : 28.3 kb/s
+Frame rate                  : 0.355 FPS
+Count of elements           : 2118
+Stream size                 : 20.1 MiB (0%)
+Title                       : English
+Language                    : English
+Default                     : No
+Forced                      : No
+
+Text #2
+ID                          : 4
+Format                      : PGS
+Codec ID                    : S_HDMV/PGS
+Codec ID/Info               : Picture based subtitle format used on BDs/HD-DVDs
+Duration                    : 1 h 39 min
+Bit rate                    : 30.7 kb/s
+Frame rate                  : 0.391 FPS
+Count of elements           : 2332
+Stream size                 : 21.9 MiB (0%)
+Title                       : English (SDH)
+Language                    : English
+Default                     : No
+Forced                      : No
+
+Text #3
+ID                          : 5
+Format                      : PGS
+Codec ID                    : S_HDMV/PGS
+Codec ID/Info               : Picture based subtitle format used on BDs/HD-DVDs
+Duration                    : 1 h 39 min
+Bit rate                    : 26.9 kb/s
+Frame rate                  : 0.360 FPS
+Count of elements           : 2146
+Stream size                 : 19.1 MiB (0%)
+Title                       : Spanish (Latin American)
+Language                    : Spanish
+Default                     : No
+Forced                      : No
+
+Menu
+00:00:00.000                : en:Chapter 01
+00:07:24.402                : en:Chapter 02
+00:11:33.401                : en:Chapter 03
+00:18:11.465                : en:Chapter 04
+00:23:55.017                : en:Chapter 05
+00:32:07.008                : en:Chapter 06
+00:35:42.974                : en:Chapter 07
+00:46:05.388                : en:Chapter 08
+00:53:38.006                : en:Chapter 09
+01:00:35.090                : en:Chapter 10
+01:09:14.108                : en:Chapter 11
+01:13:30.948                : en:Chapter 12
+01:21:45.526                : en:Chapter 13
+01:29:20.355                : en:Chapter 14
+01:36:16.354                : en:Chapter 15
+01:42:00.072                : en:Chapter 16
+
