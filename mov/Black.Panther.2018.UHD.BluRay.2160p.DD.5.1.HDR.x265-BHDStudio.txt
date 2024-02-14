@@ -1,4 +1,4 @@
-Complete name               : Marvel Cinematic Universe UHD BluRay 2160p DD5.1 HDR x265-BHDStudio\Black.Panther.2018.UHD.BluRay.2160p.DD.5.1.HDR.x265-BHDStudio.mp4
+Complete name               : Black.Panther.2018.UHD.BluRay.2160p.DD.5.1.HDR.x265-BHDStudio.mp4
 Format                      : MPEG-4
 Format profile              : Base Media
 Codec ID                    : iso4 (iso4)
