@@ -1,27 +1,28 @@
 Fleshgod Apocalypse - King [2016] [OPUS 320K]
 
-| Track  |                      Title                     | Duration |   Size  |
-|--------|------------------------------------------------|----------|---------|
-|   01   | Marche Royale                                  |   1:58   |  04 MB  |
-|   02   | In Aeternum                                    |   5:26   |  12 MB  |
-|   03   | Healing Through War                            |   4:43   |  10 MB  |
-|   04   | The Fool                                       |   4:06   |  09 MB  |
-|   05   | Cold as Perfection                             |   6:31   |  14 MB  |
-|   06   | Mitra                                          |   3:49   |  08 MB  |
-|   07   | Paramour (Die Leidenschaft bringt Leiden)      |   3:43   |  08 MB  |
-|   08   | And the Vulture Beholds                        |   5:13   |  11 MB  |
-|   09   | Gravity                                        |   5:12   |  11 MB  |
-|   10   | A Million Deaths                               |   5:27   |  12 MB  |
-|   11   | Syphilis                                       |   7:22   |  16 MB  |
-|   12   | King                                           |   3:59   |  09 MB  |
-|   13   | Marche Royale (Orchestral Version)             |   1:58   |  04 MB  |
-|   14   | In Aeternum (Orchestral Version)               |   5:27   |  12 MB  |
-|   15   | Healing Through War (Orchestral Version)       |   4:43   |  10 MB  |
-|   16   | The Fool (Orchestral Version)                  |   4:06   |  09 MB  |
-|   17   | Cold as Perfection (Orchestral Version)        |   6:32   |  14 MB  |
-|   18   | Mitra (Orchestral Version)                     |   3:47   |  08 MB  |
-|   19   | And the Vulture Beholds (Orchestral Version)   |   5:13   |  11 MB  |
-|   20   | Gravity (Orchestral Version)                   |   5:12   |  11 MB  |
-|   21   | A Million Deaths (Orchestral Version)          |   5:27   |  12 MB  |
-|   22   | Syphilis (Orchestral Version)                  |   7:16   |  16 MB  |
-|--------|------------------------------------------------|----------|---------|
+|--------|-------------------------------------------------|----------|---------|
+| Track  |                      Title                      | Duration |  Size   |
+|--------|-------------------------------------------------|----------|---------|
+|   01   | Marche Royale                                   |   1:58   |  04 MB  |
+|   02   | In Aeternum                                     |   5:26   |  12 MB  |
+|   03   | Healing Through War                             |   4:43   |  10 MB  |
+|   04   | The Fool                                        |   4:06   |  09 MB  |
+|   05   | Cold as Perfection                              |   6:31   |  14 MB  |
+|   06   | Mitra                                           |   3:49   |  08 MB  |
+|   07   | Paramour (Die Leidenschaft bringt Leiden)       |   3:43   |  08 MB  |
+|   08   | And the Vulture Beholds                         |   5:13   |  11 MB  |
+|   09   | Gravity                                         |   5:12   |  11 MB  |
+|   10   | A Million Deaths                                |   5:27   |  12 MB  |
+|   11   | Syphilis                                        |   7:22   |  16 MB  |
+|   12   | King                                            |   3:59   |  09 MB  |
+|   13   | Marche Royale (Orchestral Version)              |   1:58   |  04 MB  |
+|   14   | In Aeternum (Orchestral Version)                |   5:27   |  12 MB  |
+|   15   | Healing Through War (Orchestral Version)        |   4:43   |  10 MB  |
+|   16   | The Fool (Orchestral Version)                   |   4:06   |  09 MB  |
+|   17   | Cold as Perfection (Orchestral Version)         |   6:32   |  14 MB  |
+|   18   | Mitra (Orchestral Version)                      |   3:47   |  08 MB  |
+|   19   | And the Vulture Beholds (Orchestral Version)    |   5:13   |  11 MB  |
+|   20   | Gravity (Orchestral Version)                    |   5:12   |  11 MB  |
+|   21   | A Million Deaths (Orchestral Version)           |   5:27   |  12 MB  |
+|   22   | Syphilis (Orchestral Version)                   |   7:16   |  16 MB  |
+|--------|-------------------------------------------------|----------|---------|
