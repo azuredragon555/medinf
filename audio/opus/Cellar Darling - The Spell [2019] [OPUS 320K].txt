@@ -12,7 +12,7 @@ Cellar Darling - The Spell [2019] [OPUS 320K]
 |   07   | Sleep                                           |   3:48   |  08 MB  |
 |   08   | Insomnia                                        |   6:53   |  15 MB  |
 |   09   | Freeze                                          |   3:37   |  08 MB  |
-|   10   | Fall                                            |   59     |  02 MB  |
+|   10   | Fall                                            |   0:59   |  02 MB  |
 |   11   | Drown                                           |   7:12   |  16 MB  |
 |   12   | Love, Pt. 2                                     |   5:02   |  11 MB  |
 |   13   | Death, Pt. 2                                    |   4:36   |  10 MB  |
