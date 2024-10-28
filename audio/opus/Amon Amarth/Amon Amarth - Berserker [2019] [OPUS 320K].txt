@@ -1,18 +1,18 @@
 Amon Amarth - Berserker [2019] [OPUS 320K]
 
-|--------|-------------------------------------------------|----------|---------|
-| Track  |                      Title                      | Duration |  Size   |
-|--------|-------------------------------------------------|----------|---------|
-|   01   | Fafner's Gold                                   |   5:01   |  11 MB  |
-|   02   | Crack the Sky                                   |   3:50   |  09 MB  |
-|   03   | Mjölner, Hammer of Thor                         |   4:44   |  10 MB  |
-|   04   | Shield Wall                                     |   3:47   |  08 MB  |
-|   05   | Valkyria                                        |   4:44   |  11 MB  |
-|   06   | Raven's Flight                                  |   5:22   |  12 MB  |
-|   07   | Ironside                                        |   4:31   |  10 MB  |
-|   08   | The Berserker at Stamford Bridge                |   5:15   |  12 MB  |
-|   09   | When Once Again We Can Set Our Sails            |   4:26   |  10 MB  |
-|   10   | Skoll and Hati                                  |   4:28   |  10 MB  |
-|   11   | Wings of Eagles                                 |   4:05   |  09 MB  |
-|   12   | Into the Dark                                   |   6:48   |  15 MB  |
-|--------|-------------------------------------------------|----------|---------|
+|--------|----------------------------------------------------------------|----------|---------|
+| TRACK  |                            TITLE                               | DURATION |   SIZE  |
+|--------|----------------------------------------------------------------|----------|---------|
+|   01   | Fafner's Gold                                                  |   5:01   |  11 MB  |
+|   02   | Crack the Sky                                                  |   3:50   |  09 MB  |
+|   03   | Mjölner, Hammer of Thor                                        |   4:44   |  10 MB  |
+|   04   | Shield Wall                                                    |   3:47   |  08 MB  |
+|   05   | Valkyria                                                       |   4:44   |  11 MB  |
+|   06   | Raven's Flight                                                 |   5:22   |  12 MB  |
+|   07   | Ironside                                                       |   4:31   |  10 MB  |
+|   08   | The Berserker at Stamford Bridge                               |   5:15   |  12 MB  |
+|   09   | When Once Again We Can Set Our Sails                           |   4:26   |  10 MB  |
+|   10   | Skoll and Hati                                                 |   4:28   |  10 MB  |
+|   11   | Wings of Eagles                                                |   4:05   |  09 MB  |
+|   12   | Into the Dark                                                  |   6:48   |  15 MB  |
+|--------|----------------------------------------------------------------|----------|---------|
