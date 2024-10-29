@@ -1,0 +1,151 @@
+General
+Unique ID                                : 175123444017857458656665590405270992437 (0x83BF8C692C6F2EC1906B5EE01395F635)
+Complete name                            : The.Chronicles.of.Narnia.The Lion.the.Witch.and.the.Wardrobe.2005.1080p.BluRay.DTS.x264-DON.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 12.6 GiB
+Duration                                 : 2 h 22 min
+Overall bit rate                         : 12.6 Mb/s
+Movie name                               : The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005) - HDBits Internal
+Encoded date                             : UTC 2015-06-18 08:31:25
+Writing application                      : mkvmerge v7.7.0 ('Six Voices') 64bit built on Feb 28 2015 23:39:33
+Writing library                          : libebml v1.3.1 + libmatroska v1.4.2
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings                          : CABAC / 5 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 5 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 2 h 22 min
+Bit rate                                 : 11.0 Mb/s
+Width                                    : 1 920 pixels
+Height                                   : 816 pixels
+Display aspect ratio                     : 2.35:1
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 (24000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.292
+Stream size                              : 11.0 GiB (87%)
+Title                                    : HDBits Internal
+Writing library                          : x264 core 146 r2538kMod 121396c
+Encoding settings                        : cabac=1 / ref=5 / deblock=1:-3:-3 / analyse=0x3:0x133 / me=umh / subme=11 / psy=1 / fade_compensate=0.00 / psy_rd=1.05:0.00 / mixed_ref=1 / me_range=32 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=0 / chroma_qp_offset=-2 / threads=12 / lookahead_threads=3 / sliced_threads=0 / nr=0 / decimate=0 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / fgo=0 / bframes=8 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=23 / scenecut=40 / intra_refresh=0 / rc_lookahead=60 / rc=crf / mbtree=0 / crf=17.0000 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=62500 / vbv_bufsize=78125 / crf_max=0.0 / nal_hrd=none / filler=0 / ip_ratio=1.30 / pb_ratio=1.20 / aq=3:0.70
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Audio #1
+ID                                       : 2
+Format                                   : DTS
+Format/Info                              : Digital Theater Systems
+Codec ID                                 : A_DTS
+Duration                                 : 2 h 22 min
+Bit rate mode                            : Constant
+Bit rate                                 : 1 510 kb/s
+Channel(s)                               : 6 channels
+Channel layout                           : C L R Ls Rs LFE
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 93.750 FPS (512 SPF)
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Stream size                              : 1.51 GiB (12%)
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Audio #2
+ID                                       : 3
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Codec ID                                 : A_AAC-2
+Duration                                 : 2 h 22 min
+Bit rate                                 : 72.0 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Delay relative to video                  : 9 ms
+Stream size                              : 72.4 MiB (1%)
+Title                                    : Commentary with director Andrew Adamson and producer Mark Johnson
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Audio #3
+ID                                       : 4
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Codec ID                                 : A_AAC-2
+Duration                                 : 2 h 22 min
+Bit rate                                 : 69.5 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Delay relative to video                  : 9 ms
+Stream size                              : 71.0 MiB (1%)
+Title                                    : Commentary with director Andrew Adamson and four Pevensies
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Text #1
+ID                                       : 5
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 2 h 11 min
+Bit rate                                 : 33 b/s
+Count of elements                        : 1081
+Stream size                              : 31.9 KiB (0%)
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Text #2
+ID                                       : 6
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 2 h 16 min
+Bit rate                                 : 34 b/s
+Count of elements                        : 1283
+Stream size                              : 35.0 KiB (0%)
+Title                                    : SDH
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Menu
+00:00:00.000                             : en:Introduction
+00:07:07.635                             : en:Mrs. Macready
+00:11:15.049                             : en:The Wardrobe
+00:18:23.143                             : en:Mr. Tumnus' House
+00:24:34.222                             : en:Just Your Imagination
+00:29:45.784                             : en:Hail the Queen!
+00:34:55.760                             : en:Peter, Wake Up!
+00:39:29.825                             : en:The World of Narnia
+00:46:50.974                             : en:Beavers' Home
+00:50:23.353                             : en:Behold the Queen's Castle
+00:56:43.149                             : en:They're After Us!
+01:01:15.505                             : en:The Queen's Lair
+01:12:16.749                             : en:Across the Melting River
+01:18:57.232                             : en:Aslan's Camp
+01:24:36.404                             : en:Sir Peter
+01:31:49.879                             : en:The Lion and the Witch
+01:37:41.605                             : en:Aslan's Sacrifice
+01:46:13.617                             : en:You Have to Lead Us
+01:49:13.880                             : en:Battle For Narnia
+01:52:39.169                             : en:Aslan's Resurrection
+01:55:00.727                             : en:Phoenix
+01:59:29.078                             : en:Peter vs. the Witch
+02:05:30.022                             : en:The Royal Coronation
+02:11:34.052                             : en:Credits
