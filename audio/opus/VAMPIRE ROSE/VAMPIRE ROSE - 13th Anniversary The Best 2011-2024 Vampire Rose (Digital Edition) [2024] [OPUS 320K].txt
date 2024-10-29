@@ -5,17 +5,17 @@ DISC 1
 | TRACK  |                            TITLE                               | DURATION |   SIZE  |
 |--------|----------------------------------------------------------------|----------|---------|
 |   01   | Kakusei                                                        |   1:57   |  04 MB  |
-|   02   | Prelude ~Yami to Bara no Geshiki                               |   5:34   |  12 MB  |
+|   02   | Prelude ~Yami to Bara no Geshiki~                              |   5:34   |  12 MB  |
 |   03   | Gekkou                                                         |   4:36   |  10 MB  |
 |   04   | ELIZABETH BATHORY                                              |   4:23   |  09 MB  |
-|   05   | Castle ~Nanji no Chi wo Atae Tamae                             |   6:14   |  14 MB  |
-|   06   | Rebirth ~Unmei no Joutaijou                                    |   3:50   |  08 MB  |
+|   05   | Castle ~Nanji no Chi wo Atae Tamae~                            |   6:14   |  14 MB  |
+|   06   | Rebirth ~Unmei no Joutaijou~                                   |   3:50   |  08 MB  |
 |   07   | MASK                                                           |   4:00   |  09 MB  |
-|   08   | Sacrifice ~Guren no Tsumi Ai                                   |   4:30   |  10 MB  |
+|   08   | Sacrifice ~Guren no Tsumi Ai~                                  |   4:30   |  10 MB  |
 |   09   | Another death                                                  |   4:18   |  09 MB  |
-|   10   | Forbidden ~Kemono wo Aishita Shoujo                            |   4:09   |  09 MB  |
+|   10   | Forbidden ~Kemono wo Aishita Shoujo~                           |   4:09   |  09 MB  |
 |   11   | MOTHER DOLL                                                    |   4:57   |  11 MB  |
-|   12   | DAHLIA ~Hitsugi ni Nemuru Bara no konyakusha                   |   7:11   |  16 MB  |
+|   12   | DAHLIA ~Hitsugi ni Nemuru Bara no konyakusha~                  |   7:11   |  16 MB  |
 |--------|----------------------------------------------------------------|----------|---------|
 
 DISC 2
