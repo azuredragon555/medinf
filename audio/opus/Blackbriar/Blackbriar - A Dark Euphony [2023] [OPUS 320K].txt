@@ -1,17 +1,17 @@
 Blackbriar - A Dark Euphony [2023] [OPUS 320K]
 
-|--------|-------------------------------------------------|----------|---------|
-| Track  |                      Title                      | Duration |  Size   |
-|--------|-------------------------------------------------|----------|---------|
-|   01   | An Unwelcome Guest                              |   4:10   |  09 MB  |
-|   02   | Far Distant Land                                |   4:38   |  10 MB  |
-|   03   | Spirit of Forgetfulness                         |   3:50   |  08 MB  |
-|   04   | Bloody Footprints in the Snow                   |   5:11   |  11 MB  |
-|   05   | The Evergreen and Weeping Tree                  |   4:55   |  11 MB  |
-|   06   | Cicada                                          |   4:32   |  10 MB  |
-|   07   | My Soul's Demise                                |   4:25   |  10 MB  |
-|   08   | We Make Mist                                    |   4:36   |  10 MB  |
-|   09   | Thumbelina                                      |   4:24   |  10 MB  |
-|   10   | Forever and a Day                               |   4:58   |  11 MB  |
-|   11   | Crimson Faces                                   |   3:41   |  08 MB  |
-|--------|-------------------------------------------------|----------|---------|
+|--------|----------------------------------------------------------------|----------|---------|
+| TRACK  |                            TITLE                               | DURATION |   SIZE  |
+|--------|----------------------------------------------------------------|----------|---------|
+|   01   | An Unwelcome Guest                                             |   4:10   |  09 MB  |
+|   02   | Far Distant Land                                               |   4:38   |  10 MB  |
+|   03   | Spirit of Forgetfulness                                        |   3:50   |  08 MB  |
+|   04   | Bloody Footprints in the Snow                                  |   5:11   |  11 MB  |
+|   05   | The Evergreen and Weeping Tree                                 |   4:55   |  11 MB  |
+|   06   | Cicada                                                         |   4:32   |  10 MB  |
+|   07   | My Soul's Demise                                               |   4:25   |  10 MB  |
+|   08   | We Make Mist                                                   |   4:36   |  10 MB  |
+|   09   | Thumbelina                                                     |   4:24   |  10 MB  |
+|   10   | Forever and a Day                                              |   4:58   |  11 MB  |
+|   11   | Crimson Faces                                                  |   3:41   |  08 MB  |
+|--------|----------------------------------------------------------------|----------|---------|
