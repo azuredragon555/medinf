@@ -1,0 +1,125 @@
+General
+Unique ID                                : 279090073438635601890428796983280293796 (0xD1F6CAFF8938137567157414BF7657A4)
+Complete name                            : Wonder Woman 2017 PROPER 1080p UHD BluRay DD+7.1 x264-LoRD.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 19.6 GiB
+Duration                                 : 2 h 21 min
+Overall bit rate                         : 19.8 Mb/s
+Encoded date                             : UTC 2020-09-08 23:24:59
+Writing application                      : mkvmerge v50.0.0 ('Awakenings') 64-bit
+Writing library                          : libebml v1.4.0 + libmatroska v1.6.2
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings                          : CABAC / 5 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 5 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 2 h 21 min
+Bit rate                                 : 18.3 Mb/s
+Width                                    : 1 920 pixels
+Height                                   : 800 pixels
+Display aspect ratio                     : 2.40:1
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 (24000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.497
+Stream size                              : 18.1 GiB (92%)
+Writing library                          : x264 core 161 r3018 ~ LoRD 
+Encoding settings                        : cabac=1 / ref=5 / deblock=1:-3:-3 / analyse=0x3:0x133 / me=umh / subme=10 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=24 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=0 / chroma_qp_offset=-2 / threads=12 / lookahead_threads=2 / sliced_threads=0 / nr=0 / decimate=0 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=8 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=23 / scenecut=40 / intra_refresh=0 / rc_lookahead=60 / rc=crf / mbtree=0 / crf=15.5 / qcomp=0.66 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=62500 / vbv_bufsize=78125 / crf_max=0.0 / nal_hrd=none / filler=0 / ip_ratio=1.20 / pb_ratio=1.20 / aq=3:0.75
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 2
+Format                                   : E-AC-3
+Format/Info                              : Enhanced AC-3
+Commercial name                          : Dolby Digital Plus
+Format profile                           : Blu-ray Disc
+Codec ID                                 : A_EAC3
+Duration                                 : 2 h 21 min
+Bit rate mode                            : Constant
+Bit rate                                 : 1 536 kb/s
+Channel(s)                               : 8 channels
+Channel layout                           : L R C LFE Ls Rs Lb Rb
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 1.52 GiB (8%)
+Language                                 : English
+Service kind                             : Complete Main
+Default                                  : Yes
+Forced                                   : No
+
+Text #1
+ID                                       : 3
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 2 h 20 min
+Bit rate                                 : 43 b/s
+Count of elements                        : 1586
+Stream size                              : 44.3 KiB (0%)
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Text #2
+ID                                       : 4
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 2 h 20 min
+Bit rate                                 : 48 b/s
+Count of elements                        : 1827
+Stream size                              : 50.1 KiB (0%)
+Title                                    : SDH
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Text #3
+ID                                       : 5
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 2 h 10 min
+Bit rate                                 : 50 b/s
+Count of elements                        : 1425
+Stream size                              : 47.7 KiB (0%)
+Language                                 : Turkish
+Default                                  : No
+Forced                                   : No
+
+Menu
+00:00:00.000                             : en:Studio Logo
+00:00:47.005                             : en:Story of mankind and creation of Amazons
+00:10:26.918                             : en:Atiope trains Diana harder than ever
+00:17:31.550                             : en:Someone infiltrates the island and the surprise attack
+00:23:12.558                             : en:Trevor tells the Amazonians about the war raging the world
+00:28:05.058                             : en:Diana makes up her mind to save the mankind
+00:35:28.501                             : en:Diana and Trevor leave the island
+00:43:55.132                             : en:Diana arrives in London and clothes to fit in society
+00:52:13.672                             : en:Trevor is being followed
+00:54:25.554                             : en:Trevor hands over the notebook and secrets it revealed
+01:00:30.502                             : en:Trevor goes against the system, making a team
+01:07:38.263                             : en:Ludendorff is not ready to give in
+01:12:23.714                             : en:Diana can't sit on the sidelines anymore
+01:24:08.252                             : en:Favorite pass time when there is no war to fight
+01:29:16.351                             : en:Attending the gala and Diana understands the way of the world
+01:45:09.094                             : en:Diana finally meets Ares who shows her the truth
+01:57:42.097                             : en:Diana understand the flaws of humanity to save them
+02:06:41.469                             : en:Only love can save this humankind
+02:10:40.791                             : en:End Credits
