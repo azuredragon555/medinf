@@ -1,0 +1,217 @@
+General
+Unique ID                                : 72328674419683183666555353150730060720 (0x3669FEF937E60A12FD55F04BEBB0C3B0)
+Complete name                            : Cars 2006 1080p UHD BluRay DD+5.1 x264-LoRD.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 14.7 GiB
+Duration                                 : 1 h 56 min
+Overall bit rate                         : 18.0 Mb/s
+Encoded date                             : UTC 2019-10-20 02:36:27
+Writing application                      : mkvmerge v38.0.0 ('The Silent Type') 64-bit
+Writing library                          : libebml v1.3.9 + libmatroska v1.5.2
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings                          : CABAC / 5 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 5 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1 h 56 min
+Bit rate                                 : 15.5 Mb/s
+Width                                    : 1 920 pixels
+Height                                   : 804 pixels
+Display aspect ratio                     : 2.40:1
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 (24000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.420
+Stream size                              : 12.7 GiB (86%)
+Writing library                          : x264 core 158 r2984+49 ~ LoRD  
+Encoding settings                        : cabac=1 / ref=5 / deblock=1:-3:-3 / analyse=0x3:0x133 / me=umh / subme=10 / psy=1 / fade_compensate=0.00 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=32 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=0 / chroma_qp_offset=-2 / threads=12 / lookahead_threads=2 / sliced_threads=0 / nr=0 / decimate=0 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / fgo=0 / bframes=8 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=23 / scenecut=40 / intra_refresh=0 / rc_lookahead=60 / rc=2pass / mbtree=0 / bitrate=15545 / ratetol=1.0 / qcomp=0.60 / qpmin=0:0:0 / qpmax=69:69:69 / qpstep=4 / cplxblur=20.0 / qblur=0.5 / vbv_maxrate=50000 / vbv_bufsize=62500 / nal_hrd=none / filler=0 / ip_ratio=1.25 / pb_ratio=1.25 / aq=3:0.98 / aq-sensitivity=10.00 / aq-factor=1.00:1.00:1.00 / aq2=0 / aq3=0
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Audio #1
+ID                                       : 2
+Format                                   : E-AC-3
+Format/Info                              : Enhanced AC-3
+Commercial name                          : Dolby Digital Plus
+Codec ID                                 : A_EAC3
+Duration                                 : 1 h 56 min
+Bit rate mode                            : Constant
+Bit rate                                 : 1 536 kb/s
+Channel(s)                               : 6 channels
+Channel layout                           : L R C LFE Ls Rs
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 62.500 FPS (768 SPF)
+Compression mode                         : Lossy
+Stream size                              : 1.25 GiB (9%)
+Language                                 : English
+Service kind                             : Complete Main
+Default                                  : Yes
+Forced                                   : No
+
+Audio #2
+ID                                       : 3
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Commercial name                          : Dolby Digital
+Codec ID                                 : A_AC3
+Duration                                 : 1 h 56 min
+Bit rate mode                            : Constant
+Bit rate                                 : 192 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 160 MiB (1%)
+Title                                    : Commentary1
+Language                                 : English
+Service kind                             : Complete Main
+Default                                  : No
+Forced                                   : No
+
+Audio #3
+ID                                       : 4
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Commercial name                          : Dolby Digital
+Codec ID                                 : A_AC3
+Duration                                 : 1 h 56 min
+Bit rate mode                            : Constant
+Bit rate                                 : 192 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 160 MiB (1%)
+Title                                    : Commentary2
+Language                                 : English
+Service kind                             : Complete Main
+Default                                  : No
+Forced                                   : No
+
+Text #1
+ID                                       : 5
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 55 min
+Bit rate                                 : 27.2 kb/s
+Count of elements                        : 2880
+Stream size                              : 22.4 MiB (0%)
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Text #2
+ID                                       : 6
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 55 min
+Bit rate                                 : 48.3 kb/s
+Count of elements                        : 3574
+Stream size                              : 39.8 MiB (0%)
+Title                                    : SDH
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Text #3
+ID                                       : 7
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 48 min
+Bit rate                                 : 265 kb/s
+Count of elements                        : 17824
+Stream size                              : 205 MiB (1%)
+Title                                    : Commentary1
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Text #4
+ID                                       : 8
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 48 min
+Bit rate                                 : 238 kb/s
+Count of elements                        : 15985
+Stream size                              : 184 MiB (1%)
+Title                                    : Commentary2
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Text #5
+ID                                       : 9
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 55 min
+Bit rate                                 : 35.3 kb/s
+Count of elements                        : 2798
+Stream size                              : 29.0 MiB (0%)
+Title                                    : Latin
+Language                                 : Spanish
+Default                                  : No
+Forced                                   : No
+
+Text #6
+ID                                       : 10
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 55 min
+Bit rate                                 : 72 b/s
+Count of elements                        : 1527
+Stream size                              : 61.5 KiB (0%)
+Language                                 : Turkish
+Default                                  : No
+Forced                                   : No
+
+Menu
+00:00:00.000                             : en:Dinoco 400
+00:09:38.244                             : en:Victory Lane
+00:13:48.828                             : en:Rust-Eze
+00:16:19.853                             : en:"Life Is a Highway"
+00:19:53.483                             : en:Lost
+00:24:33.597                             : en:Lost
+00:27:27.187                             : en:Where's Mcqueen?
+00:28:12.774                             : en:The Impound
+00:29:42.155                             : en:Traffic Court
+00:33:58.077                             : en:Bessie
+00:35:53.901                             : en:Customers!
+00:41:51.175                             : en:Doc's Challenge
+00:45:56.587                             : en:A New Road
+00:48:41.043                             : en:Turn Right to Go Left
+00:50:39.494                             : en:Back to Work
+00:54:40.819                             : en:Tractor Tipping
+00:57:48.214                             : en:Backwards Driving
+01:01:29.435                             : en:Goodnight
+01:02:59.108                             : en:Doc's Piston Cups
+01:05:43.272                             : en:Breakfast at Flo's
+01:07:43.309                             : en:Drive with Sally
+01:09:49.810                             : en:Wheel Well
+01:11:27.741                             : en:"Our Town"
+01:15:01.747                             : en:Stampede
+01:15:58.303                             : en:Doc Races
+01:20:14.643                             : en:He's Gone
+01:22:22.187                             : en:A New Customer
+01:24:59.219                             : en:Cruisin'
+01:27:32.247                             : en:Mcqueen Is Found
+01:32:37.510                             : en:California Race
+01:46:18.121                             : en:Back on the Map
+01:48:31.963                             : en:Epilogue
