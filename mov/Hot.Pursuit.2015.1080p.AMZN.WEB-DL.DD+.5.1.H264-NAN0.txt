@@ -1,0 +1,551 @@
+General
+Unique ID                                : 92434141424135144308621417093243721767 (0x458A2B07A27D4C6DCD3047E9D175D827)
+Complete name                            : Hot.Pursuit.2015.1080p.AMZN.WEB-DL.DD+.5.1.H264-NAN0.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 5.96 GiB
+Duration                                 : 1 h 27 min
+Overall bit rate                         : 9 762 kb/s
+Encoded date                             : UTC 2023-07-05 07:47:46
+Writing application                      : mkvmerge v77.0 ('Elemental') 64-bit
+Writing library                          : libebml v1.4.4 + libmatroska v1.7.1
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 4 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1 h 27 min
+Bit rate mode                            : Constant
+Bit rate                                 : 9 114 kb/s
+Nominal bit rate                         : 10 000 kb/s
+Width                                    : 1 920 pixels
+Height                                   : 800 pixels
+Display aspect ratio                     : 2.40:1
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 (24000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.247
+Stream size                              : 5.57 GiB (93%)
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 2
+Format                                   : E-AC-3
+Format/Info                              : Enhanced AC-3
+Commercial name                          : Dolby Digital Plus
+Codec ID                                 : A_EAC3
+Duration                                 : 1 h 27 min
+Bit rate mode                            : Constant
+Bit rate                                 : 640 kb/s
+Channel(s)                               : 6 channels
+Channel layout                           : L R C LFE Ls Rs
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 400 MiB (7%)
+Title                                    : DD+ / 5.1 / 640 kbps
+Language                                 : English
+Service kind                             : Complete Main
+Default                                  : Yes
+Forced                                   : No
+
+Text #1
+ID                                       : 3
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 24 min
+Bit rate                                 : 85 b/s
+Count of elements                        : 1826
+Stream size                              : 52.9 KiB (0%)
+Title                                    : SRT
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Text #2
+ID                                       : 4
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 25 min
+Bit rate                                 : 93 b/s
+Count of elements                        : 2012
+Stream size                              : 58.2 KiB (0%)
+Title                                    : SRT / SDH
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Text #3
+ID                                       : 5
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 24 min
+Bit rate                                 : 104 b/s
+Count of elements                        : 1567
+Stream size                              : 64.3 KiB (0%)
+Title                                    : SRT
+Language                                 : Arabic
+Default                                  : No
+Forced                                   : No
+
+Text #4
+ID                                       : 6
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 24 min
+Bit rate                                 : 122 b/s
+Count of elements                        : 1471
+Stream size                              : 76.0 KiB (0%)
+Title                                    : SRT
+Language                                 : Bulgarian
+Default                                  : No
+Forced                                   : No
+
+Text #5
+ID                                       : 7
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 24 min
+Bit rate                                 : 80 b/s
+Count of elements                        : 1492
+Stream size                              : 49.6 KiB (0%)
+Title                                    : SRT
+Language                                 : Chinese
+Default                                  : No
+Forced                                   : No
+
+Text #6
+ID                                       : 8
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 24 min
+Bit rate                                 : 63 b/s
+Count of elements                        : 1439
+Stream size                              : 39.4 KiB (0%)
+Title                                    : SRT
+Language                                 : Chinese
+Default                                  : No
+Forced                                   : No
+
+Text #7
+ID                                       : 9
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 24 min
+Bit rate                                 : 78 b/s
+Count of elements                        : 1489
+Stream size                              : 48.4 KiB (0%)
+Title                                    : SRT
+Language                                 : Czech
+Default                                  : No
+Forced                                   : No
+
+Text #8
+ID                                       : 10
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 26 min
+Bit rate                                 : 69 b/s
+Count of elements                        : 1139
+Stream size                              : 44.1 KiB (0%)
+Title                                    : SRT
+Language                                 : Danish
+Default                                  : No
+Forced                                   : No
+
+Text #9
+ID                                       : 11
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 24 min
+Bit rate                                 : 100 b/s
+Count of elements                        : 1581
+Stream size                              : 62.2 KiB (0%)
+Title                                    : SRT
+Language                                 : German
+Default                                  : No
+Forced                                   : No
+
+Text #10
+ID                                       : 12
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 24 min
+Bit rate                                 : 127 b/s
+Count of elements                        : 1523
+Stream size                              : 79.0 KiB (0%)
+Title                                    : SRT
+Language                                 : Greek
+Default                                  : No
+Forced                                   : No
+
+Text #11
+ID                                       : 13
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 24 min
+Bit rate                                 : 77 b/s
+Count of elements                        : 1466
+Stream size                              : 48.1 KiB (0%)
+Title                                    : SRT
+Language                                 : Spanish
+Default                                  : No
+Forced                                   : No
+
+Text #12
+ID                                       : 14
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 24 min
+Bit rate                                 : 76 b/s
+Count of elements                        : 1563
+Stream size                              : 47.6 KiB (0%)
+Title                                    : SRT
+Language                                 : Spanish
+Default                                  : No
+Forced                                   : No
+
+Text #13
+ID                                       : 15
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 24 min
+Bit rate                                 : 58 b/s
+Count of elements                        : 1644
+Stream size                              : 36.1 KiB (0%)
+Title                                    : SRT
+Language                                 : Estonian
+Default                                  : No
+Forced                                   : No
+
+Text #14
+ID                                       : 16
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 26 min
+Bit rate                                 : 63 b/s
+Count of elements                        : 1298
+Stream size                              : 40.3 KiB (0%)
+Title                                    : SRT
+Language                                 : Finnish
+Default                                  : No
+Forced                                   : No
+
+Text #15
+ID                                       : 17
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 26 min
+Bit rate                                 : 75 b/s
+Count of elements                        : 1468
+Stream size                              : 47.9 KiB (0%)
+Title                                    : SRT
+Language                                 : French
+Default                                  : No
+Forced                                   : No
+
+Text #16
+ID                                       : 18
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 24 min
+Bit rate                                 : 81 b/s
+Count of elements                        : 1493
+Stream size                              : 50.2 KiB (0%)
+Title                                    : SRT
+Language                                 : Hungarian
+Default                                  : No
+Forced                                   : No
+
+Text #17
+ID                                       : 19
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 24 min
+Bit rate                                 : 82 b/s
+Count of elements                        : 1556
+Stream size                              : 51.1 KiB (0%)
+Title                                    : SRT
+Language                                 : Icelandic
+Default                                  : No
+Forced                                   : No
+
+Text #18
+ID                                       : 20
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 24 min
+Bit rate                                 : 89 b/s
+Count of elements                        : 1530
+Stream size                              : 55.2 KiB (0%)
+Title                                    : SRT
+Language                                 : Italian
+Default                                  : No
+Forced                                   : No
+
+Text #19
+ID                                       : 21
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 24 min
+Bit rate                                 : 81 b/s
+Count of elements                        : 1493
+Stream size                              : 50.4 KiB (0%)
+Title                                    : SRT
+Language                                 : Korean
+Default                                  : No
+Forced                                   : No
+
+Text #20
+ID                                       : 22
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 24 min
+Bit rate                                 : 74 b/s
+Count of elements                        : 1609
+Stream size                              : 46.3 KiB (0%)
+Title                                    : SRT
+Language                                 : Lithuanian
+Default                                  : No
+Forced                                   : No
+
+Text #21
+ID                                       : 23
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 24 min
+Bit rate                                 : 64 b/s
+Count of elements                        : 1648
+Stream size                              : 39.9 KiB (0%)
+Title                                    : SRT
+Language                                 : Latvian
+Default                                  : No
+Forced                                   : No
+
+Text #22
+ID                                       : 24
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 24 min
+Bit rate                                 : 72 b/s
+Count of elements                        : 1440
+Stream size                              : 44.9 KiB (0%)
+Title                                    : SRT
+Language                                 : Dutch
+Default                                  : No
+Forced                                   : No
+
+Text #23
+ID                                       : 25
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 26 min
+Bit rate                                 : 67 b/s
+Count of elements                        : 1124
+Stream size                              : 42.6 KiB (0%)
+Title                                    : SRT
+Language                                 : Norwegian
+Default                                  : No
+Forced                                   : No
+
+Text #24
+ID                                       : 26
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 24 min
+Bit rate                                 : 58 b/s
+Count of elements                        : 1436
+Stream size                              : 36.1 KiB (0%)
+Title                                    : SRT
+Language                                 : Polish
+Default                                  : No
+Forced                                   : No
+
+Text #25
+ID                                       : 27
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 24 min
+Bit rate                                 : 80 b/s
+Count of elements                        : 1515
+Stream size                              : 49.8 KiB (0%)
+Title                                    : SRT
+Language                                 : Portuguese
+Default                                  : No
+Forced                                   : No
+
+Text #26
+ID                                       : 28
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 24 min
+Bit rate                                 : 81 b/s
+Count of elements                        : 1614
+Stream size                              : 50.7 KiB (0%)
+Title                                    : SRT
+Language                                 : Portuguese
+Default                                  : No
+Forced                                   : No
+
+Text #27
+ID                                       : 29
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 24 min
+Bit rate                                 : 81 b/s
+Count of elements                        : 1506
+Stream size                              : 50.4 KiB (0%)
+Title                                    : SRT
+Language                                 : Romanian
+Default                                  : No
+Forced                                   : No
+
+Text #28
+ID                                       : 30
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 24 min
+Bit rate                                 : 123 b/s
+Count of elements                        : 1494
+Stream size                              : 76.6 KiB (0%)
+Title                                    : SRT
+Language                                 : Russian
+Default                                  : No
+Forced                                   : No
+
+Text #29
+ID                                       : 31
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 24 min
+Bit rate                                 : 59 b/s
+Count of elements                        : 1013
+Stream size                              : 36.7 KiB (0%)
+Title                                    : SRT
+Language                                 : Slovenian
+Default                                  : No
+Forced                                   : No
+
+Text #30
+ID                                       : 32
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 26 min
+Bit rate                                 : 75 b/s
+Count of elements                        : 1295
+Stream size                              : 48.0 KiB (0%)
+Title                                    : SRT
+Language                                 : Swedish
+Default                                  : No
+Forced                                   : No
+
+Text #31
+ID                                       : 33
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 24 min
+Bit rate                                 : 169 b/s
+Count of elements                        : 1492
+Stream size                              : 105 KiB (0%)
+Title                                    : SRT
+Language                                 : Thai
+Default                                  : No
+Forced                                   : No
+
+Text #32
+ID                                       : 34
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 24 min
+Bit rate                                 : 79 b/s
+Count of elements                        : 1531
+Stream size                              : 49.0 KiB (0%)
+Title                                    : SRT
+Language                                 : Turkish
+Default                                  : No
+Forced                                   : No
+
+Text #33
+ID                                       : 35
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 24 min
+Bit rate                                 : 126 b/s
+Count of elements                        : 1490
+Stream size                              : 78.4 KiB (0%)
+Title                                    : SRT
+Language                                 : Ukrainian
+Default                                  : No
+Forced                                   : No
+
+Text #34
+ID                                       : 36
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 24 min
+Bit rate                                 : 74 b/s
+Count of elements                        : 1492
+Stream size                              : 45.9 KiB (0%)
+Title                                    : SRT
+Language                                 : Chinese
+Default                                  : No
+Forced                                   : No
+
+Menu
+00:00:00.000                             : en:Chapter 01
+00:10:39.347                             : en:Chapter 02
+00:19:56.779                             : en:Chapter 03
+00:29:43.699                             : en:Chapter 04
+00:40:24.672                             : en:Chapter 05
+00:50:18.557                             : en:Chapter 06
+00:59:32.235                             : en:Chapter 07
+01:10:17.713                             : en:Chapter 08
+01:22:43.917                             : en:Chapter 09
