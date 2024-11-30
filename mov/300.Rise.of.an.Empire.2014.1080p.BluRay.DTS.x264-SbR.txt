@@ -1,0 +1,135 @@
+General
+Unique ID                                : 211627425792973132665364486611494987482 (0x9F35F5AAE3E3ECA5ACD9CA85E5CF66DA)
+Complete name                            : 300.Rise.of.an.Empire.2014.1080p.BluRay.DTS.x264-SbR.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 12.0 GiB
+Duration                                 : 1 h 42 min
+Overall bit rate                         : 16.8 Mb/s
+Movie name                               : 300: Rise of an Empire (2014) - Release for HDBITS by SbR
+Encoded date                             : UTC 2014-06-07 04:17:09
+Writing application                      : mkvmerge v6.9.1 ('Blue Panther') 64bit built on Apr 18 2014 18:23:38
+Writing library                          : libebml v1.3.0 + libmatroska v1.4.1
+Cover                                    : Yes
+Attachments                              : cover.jpg
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings                          : CABAC / 5 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 5 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1 h 42 min
+Bit rate                                 : 14.9 Mb/s
+Width                                    : 1 920 pixels
+Height                                   : 800 pixels
+Display aspect ratio                     : 2.40:1
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 (24000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.405
+Stream size                              : 10.7 GiB (89%)
+Title                                    : Release for HDBITS
+Writing library                          : x264 core 142 r2431+42 c69a006 tMod [8-bit@4:2:0 X86_64]
+Encoding settings                        : cabac=1 / ref=5 / deblock=1:-2:-2 / analyse=0x3:0x133 / me=umh / subme=11 / psy=1 / fade_compensate=0.00 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=32 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=12 / lookahead_threads=3 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / fgo=0 / bframes=11 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=23 / scenecut=40 / intra_refresh=0 / rc_lookahead=120 / rc=crf / mbtree=1 / crf=19.2000 / qcomp=0.80 / qpmin=0:0:0 / qpmax=69:69:69 / qpstep=4 / vbv_maxrate=62500 / vbv_bufsize=78125 / crf_max=0.0 / nal_hrd=none / filler=0 / ip_ratio=1.40 / aq=4:0.80 / aq-sensitivity=11.00 / aq-factor=1.00:1.00:1.00 / aq2=1:0.60 / aq2-sensitivity=9.00 / aq2-factor=1.00:1.00:1.00 / aq3=1:[0.60:0.60]:[0.60:0.60]:[0.60:0.60]:[0.60:0.60] / aq3-sensitivity=10.00 / aq3-factor=[1.00:1.00]:[1.00:1.00]:[1.00:1.00] / aq3-boundary=192:64:24
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 2
+Format                                   : DTS
+Format/Info                              : Digital Theater Systems
+Codec ID                                 : A_DTS
+Duration                                 : 1 h 42 min
+Bit rate mode                            : Constant
+Bit rate                                 : 1 509 kb/s
+Channel(s)                               : 6 channels
+Channel layout                           : C L R Ls Rs LFE
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 93.750 FPS (512 SPF)
+Bit depth                                : 24 bits
+Compression mode                         : Lossy
+Stream size                              : 1.08 GiB (9%)
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Text #1
+ID                                       : 3
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Text #2
+ID                                       : 4
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Title                                    : SDH
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Text #3
+ID                                       : 5
+Format                                   : PGS
+Muxing mode                              : zlib
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Text #4
+ID                                       : 6
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Language                                 : French
+Default                                  : No
+Forced                                   : No
+
+Text #5
+ID                                       : 7
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Language                                 : Portuguese
+Default                                  : No
+Forced                                   : No
+
+Text #6
+ID                                       : 8
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Language                                 : Spanish
+Default                                  : No
+Forced                                   : No
+
+Menu
+00:00:00.000                             : en:Chapter 1
+00:10:26.375                             : en:Chapter 2
+00:20:54.628                             : en:Chapter 3
+00:31:15.290                             : en:Chapter 4
+00:40:58.497                             : en:Chapter 5
+00:50:50.714                             : en:Chapter 6
+01:00:05.435                             : en:Chapter 7
+01:09:51.812                             : en:Chapter 8
+01:19:51.244                             : en:Chapter 9
+01:31:07.295                             : en:Chapter 10
+01:33:57.131                             : en:Chapter 11
