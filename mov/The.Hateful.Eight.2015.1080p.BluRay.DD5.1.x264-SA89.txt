@@ -1,0 +1,109 @@
+General
+Unique ID                                : 220556952881931818375400237484452401099 (0xA5EDB9580D399FC4B18691AB9850CFCB)
+Complete name                            : The.Hateful.Eight.2015.1080p.BluRay.DD5.1.x264-SA89.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 11.4 GiB
+Duration                                 : 2 h 47 min
+Overall bit rate                         : 9 689 kb/s
+Encoded date                             : UTC 2016-12-07 10:59:28
+Writing application                      : mkvmerge v9.4.0 ('Knurl') 64bit
+Writing library                          : libebml v1.3.4 + libmatroska v1.4.5
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings                          : CABAC / 6 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 6 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 2 h 47 min
+Bit rate                                 : 9 047 kb/s
+Width                                    : 1 920 pixels
+Height                                   : 698 pixels
+Display aspect ratio                     : 2.751
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 (24000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.282
+Stream size                              : 10.6 GiB (93%)
+Writing library                          : x264 core 148 r2694 3b70645
+Encoding settings                        : cabac=1 / ref=6 / deblock=1:-3:-3 / analyse=0x3:0x133 / me=umh / subme=10 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=24 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=6 / lookahead_threads=1 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=8 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=25 / scenecut=40 / intra_refresh=0 / rc_lookahead=60 / rc=crf / mbtree=0 / crf=15.5 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=62500 / vbv_bufsize=78125 / crf_max=0.0 / nal_hrd=none / filler=0 / ip_ratio=1.40 / pb_ratio=1.30 / aq=1:0.80
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Commercial name                          : Dolby Digital
+Codec ID                                 : A_AC3
+Duration                                 : 2 h 47 min
+Bit rate mode                            : Constant
+Bit rate                                 : 640 kb/s
+Channel(s)                               : 6 channels
+Channel layout                           : L R C LFE Ls Rs
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 768 MiB (7%)
+Language                                 : English
+Service kind                             : Complete Main
+Default                                  : Yes
+Forced                                   : No
+
+Text #1
+ID                                       : 3
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 2 h 38 min
+Bit rate                                 : 62 b/s
+Count of elements                        : 2640
+Stream size                              : 72.3 KiB (0%)
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Text #2
+ID                                       : 4
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 20 s 604 ms
+Bit rate                                 : 100 b/s
+Count of elements                        : 7
+Stream size                              : 258 Bytes (0%)
+Title                                    : Forced
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Menu
+00:00:00.000                             : en:Opening Credits
+00:04:33.523                             : en:Chapter One: Last Stage to Red Rock
+00:11:36.112                             : en:'When the Hangman Catches You, You Hang'
+00:22:01.362                             : en:Chapter Two: Son of a Gun
+00:35:02.434                             : en:Chapter Three: Minnie's Haberdashery
+00:43:31.901                             : en:Frontier Justice
+00:52:12.212                             : en:'That Door's a Whore'
+00:59:04.499                             : en:'Well Cut My Legs Off and Call Me Shorty!'
+01:08:30.315                             : en:'In Cahoots'
+01:16:10.858                             : en:Stew
+01:25:18.447                             : en:'Startin' to See Pictures, Ain't Ya?'
+01:35:06.492                             : en:Chapter Four: Domergue's Got a Secret
+01:42:20.176                             : en:'When You Get to Hell, John, Tell 'em Daisy Sent You'
+01:50:33.335                             : en:'Let's Slow It Down. Let's Slow It Way Down.'
+01:59:32.499                             : en:Chapter Five: The Four Passengers
+02:06:43.054                             : en:'Are You the Jelly Bean Salesman Around Here?'
+02:13:26.624                             : en:'Hello, Thank You, Goodnight and Maybe My Name.'
+02:19:59.725                             : en:Last Chapter: Black Man, White Hell
+02:24:17.023                             : en:'OK, Bitch, I'll Bite.'
+02:34:08.114                             : en:'Wake Up, White Boy'
+02:39:38.027                             : en:The Lincoln Letter
+02:43:22.751                             : en:'There Won't Be Many Coming Home'
