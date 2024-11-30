@@ -1,0 +1,206 @@
+General
+Unique ID                                : 265644346935319477318568741278855207313 (0xC7D93D7FD80690B070C045E93C9C1991)
+Complete name                            : Grindhouse.2007.BluRay.Remux.1080p.AVC.DD.5.1-TDD.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 39.2 GiB
+Duration                                 : 3 h 11 min
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 29.3 Mb/s
+Encoded date                             : UTC 2019-07-13 15:47:49
+Writing application                      : mkvmerge v35.0.0 ('All The Love In The World') 64-bit
+Writing library                          : libebml v1.3.9 + libmatroska v1.5.2
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 4 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 3 h 11 min
+Bit rate mode                            : Variable
+Bit rate                                 : 28.5 Mb/s
+Maximum bit rate                         : 36.0 Mb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 (24000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.573
+Stream size                              : 38.0 GiB (97%)
+Title                                    : MPEG-4 AVC Video / 28516 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio #1
+ID                                       : 2
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Commercial name                          : Dolby Digital
+Codec ID                                 : A_AC3
+Duration                                 : 3 h 11 min
+Bit rate mode                            : Constant
+Bit rate                                 : 448 kb/s
+Channel(s)                               : 6 channels
+Channel layout                           : L R C LFE Ls Rs
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 613 MiB (2%)
+Title                                    : Dolby Digital Audio / 5.1 / 48 kHz / 448 kbps
+Language                                 : English
+Service kind                             : Complete Main
+Default                                  : Yes
+Forced                                   : No
+
+Audio #2
+ID                                       : 3
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Commercial name                          : Dolby Digital
+Format settings                          : Dolby Surround
+Codec ID                                 : A_AC3
+Duration                                 : 3 h 11 min
+Bit rate mode                            : Constant
+Bit rate                                 : 192 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 263 MiB (1%)
+Title                                    : Commentary by writer/director Robert Rodriguez / Dolby Digital Audio / 2.0 / 48 kHz / 192 kbps / Dolby Surround
+Language                                 : English
+Service kind                             : Complete Main
+Default                                  : No
+Forced                                   : No
+
+Audio #3
+ID                                       : 4
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Commercial name                          : Dolby Digital
+Format settings                          : Dolby Surround
+Codec ID                                 : A_AC3
+Duration                                 : 3 h 11 min
+Bit rate mode                            : Constant
+Bit rate                                 : 192 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 263 MiB (1%)
+Title                                    : Audience Reaction Track / Dolby Digital Audio / 2.0 / 48 kHz / 192 kbps / Dolby Surround
+Language                                 : English
+Service kind                             : Complete Main
+Default                                  : No
+Forced                                   : No
+
+Text #1
+ID                                       : 5
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 3 h 4 min
+Bit rate                                 : 55 b/s
+Count of elements                        : 2048
+Stream size                              : 75.6 KiB (0%)
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Text #2
+ID                                       : 6
+Format                                   : PGS
+Muxing mode                              : zlib
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 3 h 5 min
+Bit rate                                 : 47.3 kb/s
+Count of elements                        : 4864
+Stream size                              : 62.6 MiB (0%)
+Title                                    : SDH
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Text #3
+ID                                       : 7
+Format                                   : PGS
+Muxing mode                              : zlib
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 3 h 4 min
+Bit rate                                 : 39.1 kb/s
+Count of elements                        : 4302
+Stream size                              : 51.6 MiB (0%)
+Title                                    : Latin American
+Language                                 : Spanish
+Default                                  : No
+Forced                                   : No
+
+Menu
+00:00:00.000                             : en:Machete
+00:03:43.598                             : en:Cherry Darling
+00:06:39.566                             : en:It's Go-Go, Not Cry-Cry
+00:08:33.680                             : en:Where's the Shit?
+00:13:26.347                             : en:Now, That's a Rump Roast
+00:15:00.775                             : en:No Dead Bodies for Dada Tonight
+00:16:18.227                             : en:Palomita
+00:19:34.840                             : en:Prescription: Pain
+00:23:08.429                             : en:Road Kill
+00:25:15.639                             : en:One Severed Limb
+00:29:07.287                             : en:Best Damn BBQ in Texas
+00:30:09.850                             : en:Cheating Lying Sack
+00:35:05.645                             : en:Police Station Assault
+00:39:26.406                             : en:Infected
+00:41:43.918                             : en:Dakota's Bad Hand
+00:43:20.598                             : en:Cherry's New Leg
+00:46:39.296                             : en:Crazy Babysitter Twins
+00:47:49.325                             : en:Toothless Buddies
+00:54:16.670                             : en:Ring in the Jacket
+00:57:22.397                             : en:Bone Shack Attack
+01:02:10.435                             : en:Zero to Fifty in Four
+01:05:21.251                             : en:Project Terror
+01:11:04.010                             : en:Honorable Discharge
+01:14:00.561                             : en:Melting Member
+01:17:47.746                             : en:Killer Legs
+01:23:29.004                             : en:Cherry's Dance of Death
+01:25:26.163                             : en:Helicopter Sicko Chopper
+01:29:01.419                             : en:Two Against the World
+01:31:08.755                             : en:Werewolf Women of the SS
+01:33:26.726                             : en:Don't
+01:34:52.270                             : en:Thanksgiving
+01:37:29.635                             : en:Our Feature Presentation
+01:40:49.877                             : en:The City of Austin, Texas
+01:44:09.618                             : en:"The Infamous Butterfly"
+01:49:11.045                             : en:Stuntman Mike on the Prowl
+01:53:55.329                             : en:The Texas Chili Parlor
+01:55:07.651                             : en:Icy Hot
+01:59:31.956                             : en:Six Shots of Wild Turkey
+02:02:04.943                             : en:"Are You Famous or Something?"
+02:05:29.439                             : en:The Lap Dance
+02:10:11.804                             : en:"Looking Good, Cannonball Run"
+02:13:16.572                             : en:100% Death Proof
+02:16:27.721                             : en:Dave Dee, Dozy, Beaky, Mick & Tich
+02:19:46.670                             : en:Ranger Earl McGraw
+02:22:34.796                             : en:Stuntman Mike on the Prowl Again
+02:27:13.992                             : en:Zoë the Cat
+02:34:30.928                             : en:Jasper's Farm
+02:43:01.689                             : en:Ship's Mast
+02:47:47.057                             : en:Showdown at 100 MPH
+02:55:52.167                             : en:The Tables Have Turned
+03:05:06.846                             : en:End Credits
