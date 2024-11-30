@@ -1,0 +1,201 @@
+General
+Unique ID                                : 284271014266437861179290396460731516175 (0xD5DC9B1A46EE8A03FD16CD390DFAC50F)
+Complete name                            : 300 2006 1080p UHD BluRay DD+7.1 HDR x265-DON.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 21.1 GiB
+Duration                                 : 1 h 56 min
+Overall bit rate                         : 25.9 Mb/s
+Movie name                               : 300 2006 1080p UHD BluRay DD+7.1 HDR x265-DON
+Encoded date                             : UTC 2020-10-07 17:43:17
+Writing application                      : mkvmerge v47.0.0 ('Black Flag') 64-bit
+Writing library                          : libebml v1.3.10 + libmatroska v1.5.2
+
+Video
+ID                                       : 1
+Format                                   : HEVC
+Format/Info                              : High Efficiency Video Coding
+Format profile                           : Main 10@L5.1@High
+HDR format                               : SMPTE ST 2086, HDR10 compatible
+Codec ID                                 : V_MPEGH/ISO/HEVC
+Duration                                 : 1 h 56 min
+Bit rate                                 : 24.2 Mb/s
+Width                                    : 1 920 pixels
+Height                                   : 800 pixels
+Display aspect ratio                     : 2.40:1
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 (24000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0 (Type 2)
+Bit depth                                : 10 bits
+Bits/(Pixel*Frame)                       : 0.658
+Stream size                              : 19.7 GiB (93%)
+Writing library                          : x265 3.4+12-geff904199:[Windows][GCC 10.1.1][64 bit] 10bit
+Encoding settings                        : cpuid=1111039 / frame-threads=4 / numa-pools=16 / wpp / no-pmode / no-pme / no-psnr / no-ssim / log-level=2 / input-csp=1 / input-res=1920x800 / interlace=0 / total-frames=167789 / level-idc=51 / high-tier=1 / uhd-bd=0 / ref=4 / no-allow-non-conformance / repeat-headers / annexb / aud / hrd / info / hash=0 / no-temporal-layers / open-gop / min-keyint=23 / keyint=250 / gop-lookahead=0 / bframes=13 / b-adapt=2 / b-pyramid / bframe-bias=0 / rc-lookahead=40 / lookahead-slices=4 / scenecut=40 / hist-scenecut=0 / radl=0 / no-splice / no-intra-refresh / ctu=64 / min-cu-size=8 / no-rect / no-amp / max-tu-size=32 / tu-inter-depth=4 / tu-intra-depth=4 / limit-tu=4 / rdoq-level=2 / dynamic-rd=0.00 / no-ssim-rd / signhide / no-tskip / nr-intra=0 / nr-inter=0 / no-constrained-intra / strong-intra-smoothing / max-merge=4 / limit-refs=1 / limit-modes / me=3 / subme=5 / merange=57 / temporal-mvp / no-frame-dup / no-hme / weightp / weightb / no-analyze-src-pics / deblock=-3:-3 / no-sao / no-sao-non-deblock / rd=4 / selective-sao=0 / no-early-skip / no-rskip / no-fast-intra / no-tskip-fast / no-cu-lossless / b-intra / no-splitrd-skip / rdpenalty=0 / psy-rd=2.00 / psy-rdoq=2.00 / no-rd-refine / no-lossless / cbqpoffs=-2 / crqpoffs=-2 / rc=crf / crf=15.2 / qcomp=0.60 / qpstep=4 / stats-write=0 / stats-read=0 / vbv-maxrate=160000 / vbv-bufsize=160000 / vbv-init=0.9 / crf-max=0.0 / crf-min=0.0 / ipratio=1.30 / pbratio=1.20 / aq-mode=2 / aq-strength=0.80 / no-cutree / zone-count=0 / no-strict-cbr / qg-size=32 / no-rc-grain / qpmax=69 / qpmin=0 / no-const-vbv / sar=0 / overscan=0 / videoformat=5 / range=0 / colorprim=9 / transfer=16 / colormatrix=9 / chromaloc=1 / chromaloc-top=2 / chromaloc-bottom=2 / display-window=0 / master-display=G(13250,34500)B(7500,3000)R(34000,16000)WP(15635,16450)L(10000000,1) / cll=439,106 / min-luma=0 / max-luma=1023 / log2-max-poc-lsb=8 / vui-timing-info / vui-hrd-info / slices=1 / no-opt-qp-pps / no-opt-ref-list-length-pps / no-multi-pass-opt-rps / scenecut-bias=0.05 / hist-threshold=0.03 / no-opt-cu-delta-qp / no-aq-motion / hdr10 / hdr10-opt / no-dhdr10-opt / no-idr-recovery-sei / analysis-reuse-level=0 / analysis-save-reuse-level=0 / analysis-load-reuse-level=0 / scale-factor=0 / refine-intra=0 / refine-inter=0 / refine-mv=1 / refine-ctu-distortion=0 / no-limit-sao / ctu-info=0 / no-lowpass-dct / refine-analysis-type=0 / copy-pic=1 / max-ausize-factor=1.0 / no-dynamic-refine / no-single-sei / no-hevc-aq / no-svt / no-field / qp-adaptation-range=1.00 / no-scenecut-aware-qpconformance-window-offsets / right=0 / bottom=0 / decoder-max-rate=0
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.2020
+Transfer characteristics                 : PQ
+Matrix coefficients                      : BT.2020 non-constant
+Mastering display color primaries        : Display P3
+Mastering display luminance              : min: 0.0001 cd/m2, max: 1000 cd/m2
+Maximum Content Light Level              : 439 cd/m2
+Maximum Frame-Average Light Level        : 106 cd/m2
+
+Audio #1
+ID                                       : 2
+Format                                   : E-AC-3
+Format/Info                              : Enhanced AC-3
+Commercial name                          : Dolby Digital Plus
+Format profile                           : Blu-ray Disc
+Codec ID                                 : A_EAC3
+Duration                                 : 1 h 56 min
+Bit rate mode                            : Constant
+Bit rate                                 : 1 536 kb/s
+Channel(s)                               : 8 channels
+Channel layout                           : L R C LFE Ls Rs Lb Rb
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 1.25 GiB (6%)
+Title                                    : DD+ 7.1@1536 Kbps
+Language                                 : English
+Service kind                             : Complete Main
+Default                                  : Yes
+Forced                                   : No
+
+Audio #2
+ID                                       : 3
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Commercial name                          : Dolby Digital
+Codec ID                                 : A_AC3
+Duration                                 : 1 h 56 min
+Bit rate mode                            : Constant
+Bit rate                                 : 192 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 160 MiB (1%)
+Title                                    : Commentary by Zack Snyder/Kurt Johnstad/Larry Fong
+Language                                 : English
+Service kind                             : Complete Main
+Default                                  : No
+Forced                                   : No
+
+Text #1
+ID                                       : 4
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 55 min
+Bit rate                                 : 39 b/s
+Count of elements                        : 957
+Stream size                              : 33.2 KiB (0%)
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Text #2
+ID                                       : 5
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 55 min
+Bit rate                                 : 40 b/s
+Count of elements                        : 1058
+Stream size                              : 34.2 KiB (0%)
+Title                                    : SDH
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Text #3
+ID                                       : 6
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 56 min
+Bit rate                                 : 86 b/s
+Count of elements                        : 1548
+Stream size                              : 73.5 KiB (0%)
+Title                                    : Commentary by Zack Snyder/Kurt Johnstad/Larry Fong
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Text #4
+ID                                       : 7
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 47 min
+Bit rate                                 : 40 b/s
+Count of elements                        : 1052
+Stream size                              : 31.8 KiB (0%)
+Language                                 : French
+Default                                  : No
+Forced                                   : No
+
+Text #5
+ID                                       : 8
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 47 min
+Bit rate                                 : 43 b/s
+Count of elements                        : 835
+Stream size                              : 34.0 KiB (0%)
+Language                                 : Romanian
+Default                                  : No
+Forced                                   : No
+
+Text #6
+ID                                       : 9
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 47 min
+Bit rate                                 : 45 b/s
+Count of elements                        : 966
+Stream size                              : 36.1 KiB (0%)
+Title                                    : Latin American
+Language                                 : Spanish
+Default                                  : No
+Forced                                   : No
+
+Menu
+00:00:00.000                             : :Spartan Education
+00:05:16.983                             : :Messenger From Persia
+00:10:23.289                             : :Sparta's Reply
+00:13:16.796                             : :The Ephors
+00:16:52.178                             : :The Oracle
+00:19:44.350                             : :What Should a Free Man Do?
+00:22:28.347                             : :With or on Your Shield
+00:27:03.622                             : :More Soldiers Than You
+00:29:16.254                             : :Hunters of Men's Souls
+00:33:17.829                             : :Glorious Rain
+00:35:06.771                             : :Fraction of the Monster
+00:37:49.434                             : :Wall of the Dead
+00:40:46.277                             : :Ephialtes' Request
+00:44:10.314                             : :Hot Gates Battle
+00:49:17.288                             : :Today No Spartan Dies
+00:52:46.330                             : :Make Theron Your Ally
+00:55:33.664                             : :Meeting Xerxes
+01:01:40.864                             : :Immortals Put to the Test
+01:05:20.750                             : :Uber Immortal's Fall
+01:08:42.952                             : :Numbers Count for Nothing
+01:12:43.192                             : :Blood-Drunk
+01:15:50.379                             : :Betrayer's Bargain
+01:18:38.380                             : :Queen's Bargain
+01:22:20.936                             : :Prepare for Glory
+01:26:43.532                             : :Tell Them Our Story
+01:29:11.513                             : :Trickster in True Form
+01:33:59.217                             : :Victory in Surrender
+01:38:54.595                             : :Fallen Heroes
+01:43:26.200                             : :Go Tell the Spartans
+01:49:03.537                             : :End Credits
