@@ -1,0 +1,188 @@
+General
+Unique ID                                : 170157691805438422455912801990106952456 (0x80032DEC9B77DA148C649D321F143308)
+Complete name                            : The.Italian.Job.2003.1080p.BluRay.DTS.x264-DON.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 16.0 GiB
+Duration                                 : 1 h 50 min
+Overall bit rate                         : 20.7 Mb/s
+Encoded date                             : UTC 2014-05-27 09:59:40
+Writing application                      : mkvmerge v6.9.1 ('Blue Panther') 32bit built on Apr 18 2014 18:15:44
+Writing library                          : libebml v1.3.0 + libmatroska v1.4.1
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings                          : CABAC / 5 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 5 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1 h 50 min
+Bit rate                                 : 18.8 Mb/s
+Width                                    : 1 920 pixels
+Height                                   : 816 pixels
+Display aspect ratio                     : 2.35:1
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 (24000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.500
+Stream size                              : 14.5 GiB (91%)
+Title                                    : The Italian Job 2003 1080p Blu-ray DTS x264-DON
+Writing library                          : x264 core 135 r2345kMod f0c1c53
+Encoding settings                        : cabac=1 / ref=5 / deblock=1:-3:-3 / analyse=0x3:0x133 / me=umh / subme=10 / psy=1 / fade_compensate=0.00 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=32 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=0 / chroma_qp_offset=-2 / threads=6 / lookahead_threads=1 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=8 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=23 / scenecut=40 / intra_refresh=0 / rc=crf / mbtree=0 / crf=16.0000 / qcomp=0.70 / qpmin=0 / qpmax=69 / qpstep=4 / ip_ratio=1.40 / pb_ratio=1.18 / aq=1:0.70 / zones=150942,159087,b=0.5
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : DTS
+Format/Info                              : Digital Theater Systems
+Codec ID                                 : A_DTS
+Duration                                 : 1 h 50 min
+Bit rate mode                            : Constant
+Bit rate                                 : 1 509 kb/s
+Channel(s)                               : 6 channels
+Channel layout                           : C L R Ls Rs LFE
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 93.750 FPS (512 SPF)
+Bit depth                                : 24 bits
+Compression mode                         : Lossy
+Stream size                              : 1.17 GiB (7%)
+Title                                    : English DTS 5.1 @ 1509
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Text #1
+ID                                       : 3
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Title                                    : Romanian
+Language                                 : Romanian
+Default                                  : Yes
+Forced                                   : No
+
+Text #2
+ID                                       : 4
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Title                                    : English
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Text #3
+ID                                       : 5
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Title                                    : French
+Language                                 : French
+Default                                  : No
+Forced                                   : No
+
+Text #4
+ID                                       : 6
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Title                                    : Spanish-Castilian
+Language                                 : Spanish
+Default                                  : No
+Forced                                   : No
+
+Text #5
+ID                                       : 7
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Title                                    : Portuguese-Brazilian
+Language                                 : Portuguese
+Default                                  : No
+Forced                                   : No
+
+Text #6
+ID                                       : 8
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Title                                    : Italian
+Language                                 : Italian
+Default                                  : No
+Forced                                   : No
+
+Text #7
+ID                                       : 9
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Title                                    : Danish
+Language                                 : Danish
+Default                                  : No
+Forced                                   : No
+
+Text #8
+ID                                       : 10
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Title                                    : Dutch
+Language                                 : Dutch
+Default                                  : No
+Forced                                   : No
+
+Text #9
+ID                                       : 11
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Title                                    : Swedish
+Language                                 : Swedish
+Default                                  : No
+Forced                                   : No
+
+Text #10
+ID                                       : 12
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Title                                    : Norwegian
+Language                                 : Norwegian
+Default                                  : No
+Forced                                   : No
+
+Text #11
+ID                                       : 13
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Title                                    : Finnish
+Language                                 : Finnish
+Default                                  : No
+Forced                                   : No
+
+Menu
+00:00:00.000                             : en:Main Titles
+00:02:25.979                             : en:Venice
+00:05:28.286                             : en:The Heist
+00:11:26.728                             : en:Canal Chase
+00:16:49.300                             : en:The Devil Inside
+00:24:00.522                             : en:Stella
+00:30:03.927                             : en:Planning the Job
+00:40:30.303                             : en:Cable Girl
+00:54:58.921                             : en:Bring on the Minis
+01:01:34.441                             : en:Yevhen's Killer
+01:08:08.293                             : en:Element of Surprise
+01:16:50.439                             : en:Flying the Coop
+01:23:27.711                             : en:Gridlock
+01:28:36.436                             : en:Moment of Truth
+01:34:55.148                             : en:Helicopter Face-Off
+01:40:17.386                             : en:Golden
