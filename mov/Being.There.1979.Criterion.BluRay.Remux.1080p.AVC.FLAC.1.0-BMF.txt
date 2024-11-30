@@ -1,0 +1,104 @@
+General
+Unique ID                                : 75977671526724117856160993633316413532 (0x3928C46BCB64629BCF9DFC097E6CA05C)
+Complete name                            : Being.There.1979.Criterion.BluRay.Remux.1080p.AVC.FLAC.1.0-BMF.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 26.1 GiB
+Duration                                 : 2 h 10 min
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 28.7 Mb/s
+Movie name                               : Being.There.1979.Criterion.BluRay.Remux.1080p.AVC.FLAC.1.0-BMF
+Encoded date                             : UTC 2017-03-20 22:26:10
+Writing application                      : mkvmerge v9.8.0 ('Kuglblids') 64bit
+Writing library                          : libebml v1.3.4 + libmatroska v1.4.5
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 4 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 2 h 10 min
+Bit rate mode                            : Variable
+Bit rate                                 : 28.0 Mb/s
+Maximum bit rate                         : 37.0 Mb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 (24000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.563
+Stream size                              : 25.5 GiB (98%)
+Title                                    : MPEG-4 AVC Video / 28005 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Codec ID                                 : A_FLAC
+Duration                                 : 2 h 10 min
+Bit rate mode                            : Variable
+Bit rate                                 : 642 kb/s
+Channel(s)                               : 1 channel
+Channel layout                           : C
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 11.719 FPS (4096 SPF)
+Bit depth                                : 24 bits
+Compression mode                         : Lossless
+Stream size                              : 598 MiB (2%)
+Title                                    : FLAC Audio / 1.0 / 48 kHz / 642 kbps / 24-bit
+Writing library                          : libFLAC 1.2.1 (UTC 2007-09-17)
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Text #1
+ID                                       : 3
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 2 h 6 min
+Bit rate                                 : 61 b/s
+Count of elements                        : 1701
+Stream size                              : 57.0 KiB (0%)
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Text #2
+ID                                       : 4
+Format                                   : PGS
+Muxing mode                              : zlib
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 2 h 9 min
+Bit rate                                 : 10.1 kb/s
+Count of elements                        : 3864
+Stream size                              : 9.35 MiB (0%)
+Title                                    : SDH
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Menu
+00:00:00.000                             : en:Wake-Up Call
+00:11:21.139                             : en:The Gardener
+00:19:22.912                             : en:The World Outside
+00:34:16.346                             : en:Going Up
+00:43:15.343                             : en:The Room Upstairs
+00:50:31.445                             : en:Mr. President
+01:05:51.364                             : en:"A Garden of the Earth"
+01:16:36.217                             : en:"Relatively Unknown"
+01:28:20.045                             : en:"Would You Be Mine?"
+01:36:35.289                             : en:The Russian Ambassador
+01:47:47.044                             : en:"I Like to Watch"
+02:01:56.309                             : en:"Life Is a State of Mind"
