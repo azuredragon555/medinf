@@ -1,0 +1,536 @@
+General
+Unique ID                                : 229499071460460446031898739840822981021 (0xACA7E9D427A6BE51204237CEA99AB19D)
+Complete name                            : The.Raid.Redemption.2011.Unrated.1080p.UHD.BluRay.DD+7.1.DoVi.HDR10.x265-PTer.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 15.8 GiB
+Duration                                 : 1 h 41 min
+Overall bit rate                         : 22.4 Mb/s
+Movie name                               : The.Raid.Redemption.2011.Unrated.1080p.UHD.BluRay.DD+7.1.DoVi.HDR10.x265-PTer
+Encoded date                             : UTC 2024-01-20 07:31:35
+Writing application                      : mkvmerge v76.0 ('Celebration') 64-bit
+Writing library                          : libebml v1.4.4 + libmatroska v1.7.1 / Lavf60.3.100
+
+Video
+ID                                       : 1
+Format                                   : HEVC
+Format/Info                              : High Efficiency Video Coding
+Format profile                           : Main 10@L5.1@High
+HDR format                               : SMPTE ST 2086, HDR10 compatible
+Codec ID                                 : V_MPEGH/ISO/HEVC
+Duration                                 : 1 h 41 min
+Bit rate                                 : 19.0 Mb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 (24000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0 (Type 2)
+Bit depth                                : 10 bits
+Bits/(Pixel*Frame)                       : 0.383
+Stream size                              : 13.4 GiB (85%)
+Writing library                          : x265 3.5+131-c5c0aa6fd:[DJATOM's Mod][Windows][GCC 13.1.0][64 bit] 10bit
+Encoding settings                        : cpuid=1111039 / frame-threads=5 / numa-pools=32 / wpp / no-pmode / no-pme / no-psnr / no-ssim / log-level=2 / input-csp=1 / input-res=1920x1080 / interlace=0 / total-frames=145368 / level-idc=51 / high-tier=1 / uhd-bd=0 / ref=6 / no-allow-non-conformance / repeat-headers / annexb / aud / no-eob / no-eos / hrd / info / hash=0 / temporal-layers=0 / no-open-gop / min-keyint=23 / keyint=250 / gop-lookahead=0 / bframes=16 / b-adapt=2 / b-pyramid / bframe-bias=0 / rc-lookahead=40 / lookahead-slices=0 / scenecut=40 / no-hist-scenecut / radl=0 / no-splice / no-intra-refresh / ctu=32 / min-cu-size=8 / no-rect / no-amp / max-tu-size=32 / tu-inter-depth=4 / tu-intra-depth=4 / limit-tu=0 / rdoq-level=2 / dynamic-rd=0.00 / no-ssim-rd / signhide / no-tskip / nr-intra=0 / nr-inter=0 / no-constrained-intra / strong-intra-smoothing / max-merge=5 / limit-refs=3 / limit-modes / me=3 / subme=5 / merange=57 / temporal-mvp / no-frame-dup / no-hme / weightp / weightb / no-analyze-src-pics / deblock=-3:-3 / no-sao / no-sao-non-deblock / rd=4 / selective-sao=0 / no-early-skip / no-rskip / no-fast-intra / no-tskip-fast / no-cu-lossless / b-intra / no-splitrd-skip / rdpenalty=0 / psy-rd=2.00 / psy-rdoq=1.00 / no-rd-refine / no-lossless / cbqpoffs=-5 / crqpoffs=-5 / rc=crf / crf=17.6 / qcomp=0.60 / qpstep=4 / stats-write=0 / stats-read=0 / vbv-maxrate=160000 / vbv-bufsize=160000 / vbv-init=0.9 / min-vbv-fullness=50.0 / max-vbv-fullness=80.0 / crf-max=0.0 / crf-min=0.0 / ipratio=1.30 / pbratio=1.20 / aq-mode=5 / aq-strength=0.90 / aq-bias-strength=1.00 / no-cutree / zone-count=1 / zones: / start-frame=139408 / end-frame=145367 / bitrate-factor=0.300000 / no-strict-cbr / qg-size=32 / no-rc-grain / qpmax=69 / qpmin=0 / no-const-vbv / sar=0 / overscan=0 / videoformat=5 / range=0 / colorprim=9 / transfer=16 / colormatrix=9 / chromaloc=1 / chromaloc-top=2 / chromaloc-bottom=2 / display-window=0 / master-display=G(13250,34500)B(7500,3000)R(34000,16000)WP(15635,16450)L(10000000,1) / cll=599,91 / min-luma=0 / max-luma=1023 / log2-max-poc-lsb=8 / vui-timing-info / vui-hrd-info / slices=1 / no-opt-qp-pps / no-opt-ref-list-length-pps / no-multi-pass-opt-rps / scenecut-bias=0.05 / no-opt-cu-delta-qp / no-aq-motion / hdr10 / hdr10-opt / no-dhdr10-opt / no-idr-recovery-sei / analysis-reuse-level=0 / analysis-save-reuse-level=0 / analysis-load-reuse-level=0 / scale-factor=0 / refine-intra=0 / refine-inter=0 / refine-mv=1 / refine-ctu-distortion=0 / no-limit-sao / ctu-info=0 / no-lowpass-dct / refine-analysis-type=0 / copy-pic=1 / max-ausize-factor=1.0 / no-dynamic-refine / no-single-sei / no-hevc-aq / no-svt / no-field / qp-adaptation-range=1.00 / scenecut-aware-qp=0conformance-window-offsets / right=0 / bottom=0 / decoder-max-rate=0 / no-vbv-live-multi-pass / no-mcstf / no-sbrc
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.2020
+Transfer characteristics                 : PQ
+Matrix coefficients                      : BT.2020 non-constant
+Mastering display color primaries        : Display P3
+Mastering display luminance              : min: 0.0001 cd/m2, max: 1000 cd/m2
+Maximum Content Light Level              : 599 cd/m2
+Maximum Frame-Average Light Level        : 91 cd/m2
+
+Audio #1
+ID                                       : 2
+Format                                   : E-AC-3
+Format/Info                              : Enhanced AC-3
+Commercial name                          : Dolby Digital Plus
+Format profile                           : Blu-ray Disc
+Codec ID                                 : A_EAC3
+Duration                                 : 1 h 41 min
+Bit rate mode                            : Constant
+Bit rate                                 : 1 536 kb/s
+Channel(s)                               : 8 channels
+Channel layout                           : L R C LFE Ls Rs Lb Rb
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 1.08 GiB (7%)
+Title                                    : Original Score
+Language                                 : Indonesian
+Service kind                             : Complete Main
+Default                                  : Yes
+Forced                                   : No
+
+Audio #2
+ID                                       : 3
+Format                                   : E-AC-3
+Format/Info                              : Enhanced AC-3
+Commercial name                          : Dolby Digital Plus
+Format profile                           : Blu-ray Disc
+Codec ID                                 : A_EAC3
+Duration                                 : 1 h 41 min
+Bit rate mode                            : Constant
+Bit rate                                 : 1 536 kb/s
+Channel(s)                               : 8 channels
+Channel layout                           : L R C LFE Ls Rs Lb Rb
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 1.08 GiB (7%)
+Title                                    : Score by Mike Shinoda
+Language                                 : Indonesian
+Service kind                             : Complete Main
+Default                                  : Yes
+Forced                                   : No
+
+Audio #3
+ID                                       : 4
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Codec ID                                 : A_AAC-2
+Duration                                 : 1 h 41 min
+Bit rate                                 : 83.9 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Stream size                              : 60.7 MiB (0%)
+Title                                    : Commentary by writer & director Gareth Evans
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Audio #4
+ID                                       : 5
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Codec ID                                 : A_AAC-2
+Duration                                 : 1 h 41 min
+Bit rate                                 : 82.2 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Stream size                              : 59.4 MiB (0%)
+Title                                    : Commentary by writer & director Gareth Evans and actor Joe Taslim (Jaka)
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Text #1
+ID                                       : 6
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 33 min
+Bit rate                                 : 23 b/s
+Count of elements                        : 529
+Stream size                              : 16.4 KiB (0%)
+Title                                    : English Regular
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Text #2
+ID                                       : 7
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 40 min
+Bit rate                                 : 30 b/s
+Count of elements                        : 750
+Stream size                              : 22.6 KiB (0%)
+Title                                    : English SDH
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Text #3
+ID                                       : 8
+Format                                   : ASS
+Codec ID                                 : S_TEXT/ASS
+Codec ID/Info                            : Advanced Sub Station Alpha
+Duration                                 : 1 h 40 min
+Bit rate                                 : 89 b/s
+Count of elements                        : 862
+Compression mode                         : Lossless
+Stream size                              : 65.6 KiB (0%)
+Title                                    : English SDH(Positioned)
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Text #4
+ID                                       : 9
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 39 min
+Bit rate                                 : 26 b/s
+Count of elements                        : 582
+Stream size                              : 19.5 KiB (0%)
+Title                                    : English Regular / Netflix
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Text #5
+ID                                       : 10
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 40 min
+Bit rate                                 : 28 b/s
+Count of elements                        : 689
+Stream size                              : 21.1 KiB (0%)
+Title                                    : English SDH / Netflix
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Text #6
+ID                                       : 11
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 36 min
+Bit rate                                 : 130 b/s
+Count of elements                        : 1689
+Stream size                              : 92.4 KiB (0%)
+Title                                    : Commentary by writer & director Gareth Evans
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Text #7
+ID                                       : 12
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 33 min
+Bit rate                                 : 19 b/s
+Count of elements                        : 477
+Stream size                              : 13.1 KiB (0%)
+Title                                    : Mandarin (Simplified)
+Language                                 : Chinese
+Default                                  : No
+Forced                                   : No
+
+Text #8
+ID                                       : 13
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 33 min
+Bit rate                                 : 19 b/s
+Count of elements                        : 477
+Stream size                              : 13.1 KiB (0%)
+Title                                    : Mandarin (Traditional)
+Language                                 : Chinese
+Default                                  : No
+Forced                                   : No
+
+Text #9
+ID                                       : 14
+Format                                   : PGS
+Muxing mode                              : zlib
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 33 min
+Bit rate                                 : 10.7 kb/s
+Count of elements                        : 1090
+Stream size                              : 7.21 MiB (0%)
+Title                                    : Cantonese (Traditional)
+Language                                 : Chinese
+Default                                  : No
+Forced                                   : No
+
+Text #10
+ID                                       : 15
+Format                                   : PGS
+Muxing mode                              : zlib
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 33 min
+Bit rate                                 : 12.1 kb/s
+Count of elements                        : 814
+Stream size                              : 8.09 MiB (0%)
+Title                                    : Danish
+Language                                 : Danish
+Default                                  : No
+Forced                                   : No
+
+Text #11
+ID                                       : 16
+Format                                   : PGS
+Muxing mode                              : zlib
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 33 min
+Bit rate                                 : 13.7 kb/s
+Count of elements                        : 838
+Stream size                              : 9.18 MiB (0%)
+Title                                    : Dutch
+Language                                 : Dutch
+Default                                  : No
+Forced                                   : No
+
+Text #12
+ID                                       : 17
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 33 min
+Bit rate                                 : 23 b/s
+Count of elements                        : 406
+Stream size                              : 15.9 KiB (0%)
+Title                                    : Finnish
+Language                                 : Finnish
+Default                                  : No
+Forced                                   : No
+
+Text #13
+ID                                       : 18
+Format                                   : PGS
+Muxing mode                              : zlib
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 39 min
+Bit rate                                 : 15.4 kb/s
+Count of elements                        : 1036
+Stream size                              : 10.9 MiB (0%)
+Title                                    : French (Canadian)
+Language                                 : French
+Default                                  : No
+Forced                                   : No
+
+Text #14
+ID                                       : 19
+Format                                   : PGS
+Muxing mode                              : zlib
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 39 min
+Bit rate                                 : 10.9 kb/s
+Count of elements                        : 1052
+Stream size                              : 7.69 MiB (0%)
+Title                                    : French (Parisian)
+Language                                 : French
+Default                                  : No
+Forced                                   : No
+
+Text #15
+ID                                       : 20
+Format                                   : PGS
+Muxing mode                              : zlib
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 35 min
+Bit rate                                 : 14.2 kb/s
+Count of elements                        : 1012
+Stream size                              : 9.68 MiB (0%)
+Title                                    : German
+Language                                 : German
+Default                                  : No
+Forced                                   : No
+
+Text #16
+ID                                       : 21
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 38 min
+Bit rate                                 : 18 b/s
+Count of elements                        : 476
+Stream size                              : 13.4 KiB (0%)
+Title                                    : Malay
+Language                                 : Malay
+Default                                  : No
+Forced                                   : No
+
+Text #17
+ID                                       : 22
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 33 min
+Bit rate                                 : 21 b/s
+Count of elements                        : 410
+Stream size                              : 15.1 KiB (0%)
+Title                                    : Norwegian
+Language                                 : Norwegian
+Default                                  : No
+Forced                                   : No
+
+Text #18
+ID                                       : 23
+Format                                   : PGS
+Muxing mode                              : zlib
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 35 min
+Bit rate                                 : 12.6 kb/s
+Count of elements                        : 1048
+Stream size                              : 8.59 MiB (0%)
+Title                                    : Brazilian
+Language                                 : Portuguese
+Default                                  : No
+Forced                                   : No
+
+Text #19
+ID                                       : 24
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 39 min
+Bit rate                                 : 20 b/s
+Count of elements                        : 516
+Stream size                              : 15.0 KiB (0%)
+Title                                    : Iberian
+Language                                 : Portuguese
+Default                                  : No
+Forced                                   : No
+
+Text #20
+ID                                       : 25
+Format                                   : PGS
+Muxing mode                              : zlib
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 39 min
+Bit rate                                 : 13.4 kb/s
+Count of elements                        : 1056
+Stream size                              : 9.48 MiB (0%)
+Title                                    : Latin American
+Language                                 : Spanish
+Default                                  : No
+Forced                                   : No
+
+Text #21
+ID                                       : 26
+Format                                   : PGS
+Muxing mode                              : zlib
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 34 min
+Bit rate                                 : 13.7 kb/s
+Count of elements                        : 1043
+Stream size                              : 9.26 MiB (0%)
+Title                                    : Castilian
+Language                                 : Spanish
+Default                                  : No
+Forced                                   : No
+
+Text #22
+ID                                       : 27
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 33 min
+Bit rate                                 : 23 b/s
+Count of elements                        : 406
+Stream size                              : 15.9 KiB (0%)
+Title                                    : Swedish
+Language                                 : Swedish
+Default                                  : No
+Forced                                   : No
+
+Text #23
+ID                                       : 28
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 39 min
+Bit rate                                 : 44 b/s
+Count of elements                        : 535
+Stream size                              : 32.6 KiB (0%)
+Title                                    : Thai
+Language                                 : Thai
+Default                                  : No
+Forced                                   : No
+
+Text #24
+ID                                       : 29
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 39 min
+Bit rate                                 : 24 b/s
+Count of elements                        : 535
+Stream size                              : 17.5 KiB (0%)
+Title                                    : Vietnamese
+Language                                 : Vietnamese
+Default                                  : No
+Forced                                   : No
+
+Text #25
+ID                                       : 30
+Format                                   : PGS
+Muxing mode                              : zlib
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 40 min
+Bit rate                                 : 49.9 kb/s
+Count of elements                        : 3038
+Stream size                              : 35.8 MiB (0%)
+Title                                    : Commentary by writer & director Gareth Evans
+Language                                 : French
+Default                                  : No
+Forced                                   : No
+
+Text #26
+ID                                       : 31
+Format                                   : PGS
+Muxing mode                              : zlib
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 36 min
+Bit rate                                 : 60.3 kb/s
+Count of elements                        : 3368
+Stream size                              : 41.7 MiB (0%)
+Title                                    : Brazilian / Commentary by writer & director Gareth Evans
+Language                                 : Portuguese
+Default                                  : No
+Forced                                   : No
+
+Text #27
+ID                                       : 32
+Format                                   : PGS
+Muxing mode                              : zlib
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 36 min
+Bit rate                                 : 57.2 kb/s
+Count of elements                        : 3368
+Stream size                              : 39.5 MiB (0%)
+Title                                    : Latin American / Commentary by writer & director Gareth Evans
+Language                                 : Spanish
+Default                                  : No
+Forced                                   : No
+
+Menu
+00:00:00.000                             : en:I'll Bring Him Back / Opening Credits
+00:03:04.518                             : en:Our Target Is Tama Riyadi
+00:07:28.698                             : en:Arrival / Level 1
+00:14:02.550                             : en:Police!
+00:17:37.765                             : en:We Have Visitors
+00:20:19.760                             : en:Cut the Lights
+00:25:51.675                             : en:Trapped
+00:31:16.291                             : en:What's the Damage
+00:37:27.495                             : en:Don't Get Involved
+00:42:22.414                             : en:Room 726
+00:48:49.926                             : en:One Way Out
+00:57:29.779                             : en:Who Ordered This
+00:59:58.720                             : en:Jaka vs. Mad Dog
+01:05:15.828                             : en:Come Home Brother
+01:09:36.714                             : en:Empty Handed / Betrayal
+01:16:10.315                             : en:Whatever It Takes
+01:20:18.563                             : en:Rama and Andi vs. Mad Dog
+01:30:09.779                             : en:It's All Over
+01:36:55.184                             : en:End Credits
