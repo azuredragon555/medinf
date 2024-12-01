@@ -1,0 +1,190 @@
+General
+Unique ID                                : 186751416080811571469867389538027054018 (0x8C7F03B240C70EFDBD086E1D341223C2)
+Complete name                            : Tropic.Thunder.DC.2008.1080p.BluRay.DD5.1.x264-CtrlHD.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 13.0 GiB
+Duration                                 : 2 h 1 min
+Overall bit rate                         : 15.3 Mb/s
+Movie name                               : Tropic Thunder (Director's Cut)
+Encoded date                             : UTC 2015-03-28 02:12:13
+Writing application                      : mkvmerge v7.7.0 ('Six Voices') 64bit built on Feb 28 2015 23:39:33
+Writing library                          : libebml v1.3.1 + libmatroska v1.4.2
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings                          : CABAC / 5 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 5 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 2 h 1 min
+Bit rate                                 : 14.6 Mb/s
+Width                                    : 1 920 pixels
+Height                                   : 818 pixels
+Display aspect ratio                     : 2.35:1
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 (24000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.386
+Stream size                              : 12.3 GiB (95%)
+Writing library                          : x264 core 142 r2431+42 c69a006 tMod [8-bit@all X86_64]
+Encoding settings                        : cabac=1 / ref=5 / deblock=1:-3:-3 / analyse=0x3:0x133 / me=umh / subme=9 / psy=1 / fade_compensate=0.00 / psy_rd=0.95:0.00 / mixed_ref=1 / me_range=24 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=0 / chroma_qp_offset=-2 / threads=6 / lookahead_threads=1 / sliced_threads=0 / nr=0 / decimate=0 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / fgo=0 / bframes=8 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=23 / scenecut=40 / intra_refresh=0 / rc=crf / mbtree=0 / crf=18.0000 / qcomp=0.60 / qpmin=0:0:0 / qpmax=69:69:69 / qpstep=4 / ip_ratio=1.30 / pb_ratio=1.20 / aq=4:0.85 / aq-sensitivity=10.00 / aq-factor=1.00:1.00:1.00 / aq2=0 / aq3=0
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Audio #1
+ID                                       : 2
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Commercial name                          : Dolby Digital
+Codec ID                                 : A_AC3
+Duration                                 : 2 h 1 min
+Bit rate mode                            : Constant
+Bit rate                                 : 640 kb/s
+Channel(s)                               : 6 channels
+Channel layout                           : L R C LFE Ls Rs
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 555 MiB (4%)
+Language                                 : English
+Service kind                             : Complete Main
+Default                                  : Yes
+Forced                                   : No
+
+Audio #2
+ID                                       : 3
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Codec ID                                 : A_AAC-2
+Duration                                 : 2 h 1 min
+Bit rate                                 : 72.0 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Delay relative to video                  : 9 ms
+Stream size                              : 62.7 MiB (0%)
+Title                                    : Commentary with Ben Stiller, Justin Theroux, Stuart Cornfeld, Jeff Mann, John Toll and Greg Hayden
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Audio #3
+ID                                       : 4
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Codec ID                                 : A_AAC-2
+Duration                                 : 2 h 1 min
+Bit rate                                 : 72.0 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Delay relative to video                  : 9 ms
+Stream size                              : 61.9 MiB (0%)
+Title                                    : Commentary with Ben Stiller, Jack Black, and Robert Downey, Jr.
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Text #1
+ID                                       : 5
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 52 min
+Bit rate                                 : 79 b/s
+Count of elements                        : 1766
+Stream size                              : 65.6 KiB (0%)
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Text #2
+ID                                       : 6
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 52 min
+Bit rate                                 : 75 b/s
+Count of elements                        : 1828
+Stream size                              : 62.1 KiB (0%)
+Language                                 : Spanish
+Default                                  : No
+Forced                                   : No
+
+Text #3
+ID                                       : 7
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 52 min
+Bit rate                                 : 65 b/s
+Count of elements                        : 1715
+Stream size                              : 54.2 KiB (0%)
+Language                                 : French
+Default                                  : No
+Forced                                   : No
+
+Text #4
+ID                                       : 8
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 52 min
+Bit rate                                 : 72 b/s
+Count of elements                        : 1821
+Stream size                              : 59.7 KiB (0%)
+Language                                 : Portuguese
+Default                                  : No
+Forced                                   : No
+
+Text #5
+ID                                       : 9
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 58 min
+Bit rate                                 : 80 b/s
+Count of elements                        : 1945
+Stream size                              : 70.0 KiB (0%)
+Title                                    : SDH
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Menu
+00:00:00.000                             : en:00:00:00.000
+00:03:58.155                             : en:00:03:58.155
+00:10:17.534                             : en:00:10:17.534
+00:15:46.779                             : en:00:15:46.779
+00:20:44.660                             : en:00:20:44.660
+00:28:43.180                             : en:00:28:43.180
+00:35:07.564                             : en:00:35:07.564
+00:41:16.349                             : en:00:41:16.349
+00:47:16.125                             : en:00:47:16.125
+00:50:50.965                             : en:00:50:50.965
+00:55:45.509                             : en:00:55:45.509
+00:59:31.234                             : en:00:59:31.234
+01:03:47.198                             : en:01:03:47.198
+01:10:31.853                             : en:01:10:31.853
+01:12:59.417                             : en:01:12:59.417
+01:16:54.610                             : en:01:16:54.610
+01:21:29.134                             : en:01:21:29.134
+01:25:42.637                             : en:01:25:42.637
+01:28:59.793                             : en:01:28:59.793
+01:34:41.342                             : en:01:34:41.342
+01:38:44.252                             : en:01:38:44.252
+01:45:07.551                             : en:01:45:07.551
+01:51:14.209                             : en:01:51:14.209
+01:52:57.354                             : en:01:52:57.354
